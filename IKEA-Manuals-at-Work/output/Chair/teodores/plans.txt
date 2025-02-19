@@ -1,0 +1,41 @@
+
+02:46PM on January 05, 2025
+=================================================================
+There are seven pages of the setup manual, each with a big, bold black number indicating the step. Thus, there are seven total steps.
+
+### Step 1:
+- **Parts Needed:** Curved Leg (0), Curved Leg (4), Straight Leg (1), Straight Leg (2)
+- **Instructions:**
+  - **Assemble Legs:** Connect the curved legs (0, 4) with the straight legs (1, 2) as shown in the manual. The curved legs are positioned at the front, and the straight legs at the back.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Backrest (3)
+- **Instructions:**
+  - **Attach Backrest:** Secure the backrest (3) to the top of the assembled leg structure from Step 1.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 2, Seat (5)
+- **Instructions:**
+  - **Install Seat:** Place the seat (5) onto the frame, ensuring it fits securely between the legs and backrest.
+
+### Step 4:
+- **Parts Needed:** Subassembly from Step 3, Support Bar (6)
+- **Instructions:**
+  - **Add Support Bar:** Attach the first support bar (6) underneath the seat for added stability.
+
+### Step 5:
+- **Parts Needed:** Subassembly from Step 4, Support Bar (7)
+- **Instructions:**
+  - **Add Second Support Bar:** Secure the second support bar (7) parallel to the first one, enhancing the chair's structure.
+
+### Step 6:
+- **Parts Needed:** Subassembly from Step 5, Support Bar (8)
+- **Instructions:**
+  - **Add Final Support Bar:** Attach the final support bar (8) to complete the support structure under the seat.
+
+### Step 7:
+- **Parts Needed:** Fully Assembled Chair
+- **Instructions:**
+  - **Final Adjustments:** Ensure all parts are securely fastened and the chair is stable. Make any necessary adjustments to align the components properly.
+
+These steps follow the manual's instructions, focusing on the colored segmented parts for each step.

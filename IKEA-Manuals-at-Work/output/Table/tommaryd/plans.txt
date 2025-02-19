@@ -1,0 +1,36 @@
+
+02:54PM on January 05, 2025
+=================================================================
+There are six pages of the setup manual overlayed with mask segmentations. Thus, there are six total steps.
+
+### Step 1:
+- **Parts Needed:** Table Top (0), Support Bars (5, 6)
+- **Instructions:**
+  - **Attach Support Bars:** Secure support bars (5, 6) to the underside of the table top (0) as shown in the red and green segments.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Support Bar (7)
+- **Instructions:**
+  - **Add Support Bar:** Connect the additional support bar (7) to the structure from Step 1, aligning with the purple segment.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 2, Legs (1, 2)
+- **Instructions:**
+  - **Install Legs:** Attach legs (1, 2) to the corners of the table top assembly, following the green and purple segments.
+
+### Step 4:
+- **Parts Needed:** Subassembly from Step 3, Legs (3, 4)
+- **Instructions:**
+  - **Complete Leg Installation:** Secure the remaining legs (3, 4) to the other corners, as indicated by the green and purple segments.
+
+### Step 5:
+- **Parts Needed:** Subassembly from Step 4, Support Bars (8, 9)
+- **Instructions:**
+  - **Stabilize with Support Bars:** Attach support bars (8, 9) between the legs to enhance stability, following the green and purple segments.
+
+### Step 6:
+- **Parts Needed:** Subassembly from Step 5, Support Bars (10, 11)
+- **Instructions:**
+  - **Final Support Bars:** Connect the last support bars (10, 11) to complete the frame, as shown in the green segment.
+
+This plan follows the manual's instructions, focusing on the colored segments to ensure correct assembly.

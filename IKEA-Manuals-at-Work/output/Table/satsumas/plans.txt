@@ -1,0 +1,21 @@
+
+02:52PM on January 05, 2025
+=================================================================
+There are three pages of the setup manual overlayed with mask segmentations, indicating three total steps.
+
+### Step 1:
+- **Parts Needed:** Seat (1), Legs (2, 3, 4, 5)
+- **Instructions:**
+  - **Attach Legs to Seat:** Connect the four legs (2, 3, 4, 5) to the seat (1) as shown. Each leg should be aligned with the corresponding corner of the seat.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Support Bars (6, 7)
+- **Instructions:**
+  - **Install Support Bars:** Attach the support bars (6, 7) horizontally between the legs. Ensure they are positioned as shown to provide stability.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 2, Backrest (0)
+- **Instructions:**
+  - **Add Backrest:** Secure the backrest (0) to the top of the structure. Align it with the support bars and ensure it is firmly attached.
+
+These steps follow the sequence depicted in the manual, ensuring a stable and correctly assembled piece of furniture.

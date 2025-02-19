@@ -1,0 +1,23 @@
+
+[
+    {
+        "name": "perforated panel",
+        "number": [0]
+    },
+    {
+        "name": "frame",
+        "number": [1]
+    },
+    {
+        "name": "solid panel",
+        "number": [2]
+    },
+    {
+        "name": "leg frame",
+        "number": [3]
+    },
+    {
+        "name": "support bar",
+        "number": [4]
+    }
+]

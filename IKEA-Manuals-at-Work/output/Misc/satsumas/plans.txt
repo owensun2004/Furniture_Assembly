@@ -1,0 +1,16 @@
+
+02:33PM on January 05, 2025
+=================================================================
+There are two pages of the setup manual overlayed with mask segmentations, indicating two total steps.
+
+### Step 1:
+- **Parts Needed:** Support Bar (0), Support Bar (2), Support Bar (3), Support Bar (5), Connector (4)
+- **Instructions:**
+  - **Assemble Support Bars:** Connect support bars (0), (2), (3), and (5) using the connector (4) as shown in the manual. The support bars are aligned horizontally and connected to form a base structure.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Leg (1), Leg (6)
+- **Instructions:**
+  - **Attach Legs:** Connect the legs (1) and (6) to the ends of the assembled support structure from Step 1. This forms the vertical supports for the furniture piece.
+
+These steps follow the color-coded segments in the manual to ensure correct assembly.

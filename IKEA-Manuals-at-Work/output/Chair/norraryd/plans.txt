@@ -1,0 +1,19 @@
+
+02:33PM on January 05, 2025
+=================================================================
+There are three pages of the setup manual overlayed with mask segmentations. Thus, there are three total steps.
+
+### Step 1:
+- **Parts Needed:** Side Support (1), Side Support (2)
+- **Instructions:**
+  - **Assemble Side Supports:** Connect the side supports (1 and 2) as shown in the manual. The red part represents the main frame, while the green and purple parts are the supports to be attached.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Front Leg Frame (4)
+- **Instructions:**
+  - **Attach Front Leg Frame:** Connect the front leg frame (4) to the subassembly from Step 1. The red and green parts indicate the frames being joined.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 2, Backrest (0), Seat (3)
+- **Instructions:**
+  - **Complete Assembly:** Attach the backrest (0) and seat (3) to the structure from Step 2. The red part is the backrest, and the green part is the seat, completing the chair assembly.

@@ -1,0 +1,1 @@
+Describe each of the 11 inputted images. Your output should be a table.

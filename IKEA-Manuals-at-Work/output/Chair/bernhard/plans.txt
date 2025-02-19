@@ -1,0 +1,11 @@
+
+02:32PM on January 05, 2025
+=================================================================
+There is one page of the setup manual overlayed with mask segmentations, indicating one step.
+
+### Step 1:
+- **Parts Needed:** Frame (0), Frame (1), Corner Piece (2)
+- **Instructions:**
+  - **Connect Frames and Corner Piece:** 
+    - Align Frame (0) and Frame (1) as shown in the manual.
+    - Use the Corner Piece (2) to connect the two frames, ensuring they are securely attached to form the base structure. The red and purple colors in the manual indicate where each frame should be positioned relative to the corner piece.

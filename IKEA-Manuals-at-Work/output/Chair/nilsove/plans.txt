@@ -1,0 +1,21 @@
+
+02:31PM on January 05, 2025
+=================================================================
+There are three pages of the setup manual overlayed with mask segmentations, indicating three total steps.
+
+### Step 1:
+- **Parts Needed:** Seat (0), Leg (1)
+- **Instructions:**
+  - **Attach First Leg:** Connect leg (1) to the underside of the seat (0) as shown in the manual. The leg is highlighted in green, and the seat is in red.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Leg (2)
+- **Instructions:**
+  - **Attach Second Leg:** Add leg (2) to the existing assembly. The new leg is highlighted in red, while the previous assembly is in green.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 2, Legs (3) and (4)
+- **Instructions:**
+  - **Attach Remaining Legs:** Connect legs (3) and (4) to complete the chair. Leg (3) is highlighted in purple, and leg (4) is in green, with the rest of the assembly in red.
+
+Follow these steps to assemble the chair using the labeled parts.

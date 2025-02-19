@@ -1,0 +1,26 @@
+
+02:30PM on January 05, 2025
+=================================================================
+There are four pages of the setup manual, each with a distinct step. Here is the detailed step-by-step assembly plan:
+
+### Step 1:
+- **Parts Needed:** Backrest Frame (0), Side Frame (1)
+- **Instructions:**
+  - **Align and Connect Frames:** Position the backrest frame (0) and side frame (1) as shown. The backrest frame should be aligned horizontally with the side frame vertically, forming the main structure.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Leg (2)
+- **Instructions:**
+  - **Attach Leg:** Secure the leg (2) to the bottom of the side frame (1) from the previous assembly. This provides stability and support.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 2, Support Bar (4)
+- **Instructions:**
+  - **Install Support Bar:** Attach the support bar (4) horizontally between the backrest frame (0) and the side frame (1) to enhance stability.
+
+### Step 4:
+- **Parts Needed:** Subassembly from Step 3, Armrest (3)
+- **Instructions:**
+  - **Add Armrest:** Position the armrest (3) on top of the side frame (1) and secure it. This completes the assembly, providing arm support.
+
+Follow these steps carefully to assemble the furniture as per the manual instructions.

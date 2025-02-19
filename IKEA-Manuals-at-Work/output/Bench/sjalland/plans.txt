@@ -1,0 +1,14 @@
+
+02:27PM on January 05, 2025
+=================================================================
+There are two pages of the setup manual overlayed with mask segmentations, indicating two total steps.
+
+### Step 1:
+- **Parts Needed:** Tabletop (0), Leg (1)
+- **Instructions:**
+  - **Attach First Leg:** Connect the leg (1) to one side of the tabletop (0) as shown in the red and green segmented parts in the manual.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Support Beam (2), Leg (3)
+- **Instructions:**
+  - **Attach Support Beam and Second Leg:** Connect the support beam (2) between the two legs (1 and 3) and secure the second leg (3) to the opposite side of the tabletop (0), as indicated by the purple and green segments in the manual.

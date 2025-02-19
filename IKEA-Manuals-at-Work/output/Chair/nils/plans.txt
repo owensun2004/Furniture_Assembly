@@ -1,0 +1,21 @@
+
+02:28PM on January 05, 2025
+=================================================================
+There are three pages of the setup manual overlayed with mask segmentations, indicating three total steps.
+
+### Step 1:
+- **Parts Needed:** Seat Frame (0), Seat Frame (1)
+- **Instructions:**
+  - **Align and Connect Frames:** Position the two seat frames (0 and 1) together as shown in the red segmentation. Ensure they are aligned properly to form the base structure.
+
+### Step 2:
+- **Parts Needed:** Backrest (2)
+- **Instructions:**
+  - **Attach Backrest:** Secure the backrest (2) to the assembled seat frames from Step 1. The backrest should be positioned vertically as indicated by the green segmentation.
+
+### Step 3:
+- **Parts Needed:** Seat Cushion (3)
+- **Instructions:**
+  - **Place Seat Cushion:** Position the seat cushion (3) on top of the assembled seat frames. Ensure it fits snugly within the frame as shown in the green segmentation.
+
+These steps will guide you through assembling the chair using the provided parts.

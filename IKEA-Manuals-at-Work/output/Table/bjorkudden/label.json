@@ -1,0 +1,39 @@
+
+[
+    {
+        "name": "frame",
+        "number": [0]
+    },
+    {
+        "name": "seat",
+        "number": [1]
+    },
+    {
+        "name": "support bar",
+        "number": [2]
+    },
+    {
+        "name": "leg",
+        "number": [3]
+    },
+    {
+        "name": "leg",
+        "number": [4]
+    },
+    {
+        "name": "support bar",
+        "number": [5]
+    },
+    {
+        "name": "support bar",
+        "number": [6]
+    },
+    {
+        "name": "leg",
+        "number": [7]
+    },
+    {
+        "name": "leg",
+        "number": [8]
+    }
+]

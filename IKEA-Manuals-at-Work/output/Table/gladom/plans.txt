@@ -1,0 +1,19 @@
+
+02:48PM on January 05, 2025
+=================================================================
+There are three pages of the setup manual overlayed with mask segmentations. Thus, there are three total steps.
+
+### Step 1:
+- **Parts Needed:** Frame (0)
+- **Instructions:**
+  - **Assemble Frame:** Connect the frame parts as shown in the manual. The red and green segments indicate where the pieces should align and connect.
+
+### Step 2:
+- **Parts Needed:** Circular Support (2)
+- **Instructions:**
+  - **Attach Circular Support:** Place the circular support (2) on top of the assembled frame from Step 1. Ensure it fits securely as indicated by the red segment.
+
+### Step 3:
+- **Parts Needed:** Round Top (1)
+- **Instructions:**
+  - **Add Round Top:** Position the round top (1) onto the circular support from Step 2. Align it carefully as shown by the green segment to complete the assembly.

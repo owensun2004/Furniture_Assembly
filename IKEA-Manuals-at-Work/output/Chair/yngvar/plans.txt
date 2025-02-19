@@ -1,0 +1,12 @@
+
+02:50PM on January 05, 2025
+=================================================================
+There is one page of the setup manual overlayed with mask segmentations, indicating one step.
+
+### Step 1:
+- **Parts Needed:** Frame (0), Leg (1), Seat (2)
+- **Instructions:**
+  - **Attach the Frame and Seat:** Position the frame (0) over the seat (2) as shown in the manual. The seat is highlighted in red, and the frame is in green.
+  - **Connect the Leg:** Attach the leg (1) to the frame (0) and seat (2). The leg is highlighted in purple, indicating its connection point to the frame and seat.
+
+This step involves aligning and connecting all the main parts to form the basic structure of the chair.

@@ -1,0 +1,31 @@
+
+02:53PM on January 05, 2025
+=================================================================
+There are five pages of the setup manual overlayed with mask segmentations, indicating five total steps.
+
+### Step 1:
+- **Parts Needed:** Support Bar (4), Support Bar (5), Support Bar (7)
+- **Instructions:**
+  - **Assemble Base Frame:** Connect support bars (4), (5), and (7) to form the base frame as shown in the manual. The red, green, and purple segments indicate the arrangement.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Support Bar (8)
+- **Instructions:**
+  - **Extend Frame:** Attach support bar (8) to the existing frame from Step 1. The purple segment shows the new addition.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 2, Side Panel (6), Side Panel (10)
+- **Instructions:**
+  - **Add Vertical Supports:** Connect side panels (6) and (10) vertically to the frame. The green and purple segments indicate their positions.
+
+### Step 4:
+- **Parts Needed:** Subassembly from Step 3, Side Panel (9)
+- **Instructions:**
+  - **Complete Upper Frame:** Attach side panel (9) horizontally across the top of the vertical supports. The green segment shows its placement.
+
+### Step 5:
+- **Parts Needed:** Subassembly from Step 4, Backrest (0)
+- **Instructions:**
+  - **Install Backrest:** Secure the backrest (0) to the frame, completing the structure. The green segment indicates its position.
+
+Follow these steps to assemble the furniture as per the manual instructions.

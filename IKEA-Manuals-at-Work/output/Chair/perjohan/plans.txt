@@ -1,0 +1,27 @@
+
+02:34PM on January 05, 2025
+=================================================================
+There are four pages of the setup manual overlayed with mask segmentations, indicating four total steps.
+
+### Step 1:
+- **Parts Needed:** Front Panel (5), Side Panel (3), Shelf (4)
+- **Instructions:**
+  - **Attach Front Panel to Side Panel:** Connect the front panel (5) to the side panel (3) as shown in red.
+  - **Add Shelf:** Insert the shelf (4) between the panels, as indicated in purple.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Back Panel (0)
+- **Instructions:**
+  - **Insert Back Panel:** Slide the back panel (0) into the assembly from Step 1, as shown in red.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 2, Side Panel (1)
+- **Instructions:**
+  - **Attach Second Side Panel:** Secure the second side panel (1) to the existing structure, as shown in green.
+
+### Step 4:
+- **Parts Needed:** Subassembly from Step 3, Front Panel (6), Shelf (4)
+- **Instructions:**
+  - **Complete Front Structure:** Attach the second front panel (6) and secure the top shelf (4) to finalize the assembly, as shown in purple and green.
+
+These steps follow the sequence and color-coded segmentation in the manual to ensure correct assembly.

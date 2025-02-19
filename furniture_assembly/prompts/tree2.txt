@@ -1,0 +1,159 @@
+You are a robot assistant responsible for assembling IKEA furnitures.
+
+Your new task is to convert a step by step furniture assembly instruction plan from text format into a tree format.
+
+The tree represents the stage of the furniture assembly, with lower level nodes representing initial and beginning stages, and the upper level representing the concluding and finished stages of the furniture assembly.
+
+Each node of the tree will have a place to store its name, children nodes, and a string of text.
+
+Each end node (leaf) of the tree represents the atomic furniture part, you can think of it as a furniture part that cannot be decomposed further. As you move up the tree, each parent node will represent two or more child nodes combined. Finally, the root node will be the completed furniture.
+
+You should clearly describe how every node is connected.
+
+Your output will be a tree written in ONLY IN PYTHON CODE, all other natual language texts you want to output should be formatted as python comments. For starters, I have defined the TreeNode Class for you:
+
+class TreeNode:
+    def __init__(self, name, id, text=""):
+        self.name = name              # Node's name
+        self.id = id                  # Node's identity (format is (leaf/step) (number), see below)
+        self.text = text              # Place to store additional text
+        self.children = []              # List to store child nodes
+        self.parent = parent            # Reference to parent node
+        self.image = None               # Node's image, leave as blank for now
+
+    def add_child(self, child_node):
+        child_node.parent = self        # Set the child's parent to this node
+        self.children.append(child_node)
+
+    def __repr__(self, level=0):
+        # This will help print the tree with name and text details for each node
+        ret = "\t" * level + f"Node(name={self.name}, text={self.text})\n"
+        for child in self.children:
+            ret += child.__repr__(level + 1)
+        return ret
+
+EXAMPLE INPUT 1:
+Here’s a step-by-step assembly plan for the furniture using the provided parts:
+
+### Step 1: Assemble Backrest and Seat
+- **Parts Needed:** Backrest Frame (1), Seat Cushion (5)
+- **Instructions:**
+  - Place the Backrest Frame (1) and Seat Cushion (5) adjacent as shown in their respective colors (red and green).
+  - Ensure the backrest is upright and securely attached to the seat.
+
+### Step 2: Attach Side Leg Frame
+- **Parts Needed:** Side Leg Frame (2)
+- **Instructions:**
+  - Position the Side Leg Frame (2) on one side of the assembled backrest and seat structure.
+
+### Step 3: Attach Side Leg Frame Again
+- **Parts Needed:** Side Leg Frame (7)
+- **Instructions:**
+  - Position the Side Leg Frame (7) on the other side of the assembled backrest and seat structure.
+
+### Step 4: Connect Support Beams
+- **Parts Needed:** Support Beams (3, 4)
+- **Instructions:**
+  - Attach Support Beams (3, 4) to the inside of the Side Leg Frame, as depicted.
+
+  
+Check the entire assembly for any loose parts and re-tighten as necessary. The chair should now be fully assembled and ready for use.
+
+EXAMPLE OUTPUT 1:
+class TreeNode:
+    def __init__(self, name, id, text=""):
+        self.name = name              # Node's name
+        self.id = id                  # Node's identity (format is (leaf/step) (number), see below)
+        self.text = text              # Place to store additional text
+        self.children = []              # List to store child nodes
+        self.parent = parent            # Reference to parent node
+        self.image = None               # Node's image, leave as blank for now
+
+    def add_child(self, child_node):
+        child_node.parent = self        # Set the child's parent to this node
+        self.children.append(child_node)
+
+leaf1 = TreeNode(name="Support Beam (3)", id="Leaf 1", text="Atomic furniture part")
+leaf2 = TreeNode(name="Support Beam (4)", id="Leaf 2", text="Atomic furniture part")
+leaf3 = TreeNode(name="Side Leg Frame (2)", id="Leaf 3", text="Atomic furniture part")
+leaf4 = TreeNode(name="Side Leg Frame (7)", id="Leaf 4", text="Atomic furniture part")
+leaf5 = TreeNode(name="Backrest Frame (1)", id="Leaf 5", text="Atomic furniture part")
+leaf6 = TreeNode(name="Seat Cushion (5)", id="Leaf 6", text="Atomic furniture part")
+
+node1 = TreeNode(name="Assemble Backrest Frame (1) and Seat Cushion (5)", id="Step 1", text="Place the Backrest Frame (1) and Seat Cushion (5) adjacent as shown in their respective colors (red and green). Ensure the backrest is upright and securely attached to the seat")
+
+node1.add_child(leaf5)
+node1.add_child(leaf6)
+
+node2 = TreeNode(name="Attach Side Leg Frame (2) with node 1", id="Step 2", text="Position the Side Leg Frame (2) on one side of the assembled backrest and seat structure.")
+
+node2.add_child(leaf3)
+node2.add_child(node1)
+
+node3 = TreeNode(name="Attach Side Leg Frame (7) with node 2", id="Step 3", text="Position the Side Leg Frame (7) on the other side of the assembled backrest and seat structure.")
+
+node3.add_child(leaf4)
+node3.add_child(node2)
+
+node4 = TreeNode(name="Connect Support Beams (3, 4) with node 3", id="Step 4", text="Attach Support Beams (3, 4) to the inside of the Side Leg Frame, as depicted.")
+
+node4.add_child(leaf1)
+node4.add_child(leaf2)
+node4.add_child(node3)
+
+root = node4
+
+EXAMPLE INPUT 2:
+Here is a detailed step-by-step plan for assembling the chair using the provided materials and the new pages of the manual:
+
+### Step 1: Connect Support Beams and Leg Frame
+**Parts Involved:** Support Beams (27 and 28), Leg Frame (30)
+- **Instructions:** Position the leg frame (30) horizontally on the floor. Align the support beams (27 and 28) vertically to connect with the leg frame. Ensure that each beam is fitted securely into the designated slots on the frame.
+
+### Step 2: Attach Backrest Slats
+**Parts Involved:** Backrest Slats (26)
+- **Instructions:** Insert the backrest slats (26) into the slots on the leg frame. Ensure that the slats are facing outward and securely fitted to provide back support.
+
+### Step 3: Connect Seat Cushion
+**Parts Involved:** Seat Cushion (24)
+- **Instructions:** Place the seat cushion (24) on top of the assembled frame. Align the cushion with the edges of the frame for balance and comfort.
+
+EXAMPLE OUTPUT 2:
+class TreeNode:
+    def __init__(self, name, id, text=""):
+        self.name = name              # Node's name
+        self.id = id                  # Node's identity (format is (leaf/step) (number), see below)
+        self.text = text              # Place to store additional text
+        self.children = []              # List to store child nodes
+        self.parent = parent            # Reference to parent node
+        self.image = None               # Node's image, leave as blank for now
+
+    def add_child(self, child_node):
+        child_node.parent = self        # Set the child's parent to this node
+        self.children.append(child_node)
+
+leaf1 = TreeNode(name="Support Beam (27)", id="Leaf 1", text="Atomic furniture part")
+leaf2 = TreeNode(name="Support Beam (28)", id="Leaf 2", text="Atomic furniture part")
+leaf3 = TreeNode(name="Leg Frame (30)", id="Leaf 3", text="Atomic furniture part")
+leaf4 = TreeNode(name="Backrest Slats (26)", id="Leaf 4", text="Atomic furniture part")
+leaf5 = TreeNode(name="Seat Cushion (24)", id="Leaf 5", text="Atomic furniture part")
+
+node1 = TreeNode(name="Connect Support Beams (27, 28) and Leg Frame (30)", id="Step 1", text="Position the leg frame (30) horizontally on the floor. Align the support beams (27 and 28) vertically to connect with the leg frame. Ensure that each beam is fitted securely into the designated slots on the frame.")
+
+node1.add_child(leaf1)
+node1.add_child(leaf2)
+node1.add_child(leaf3)
+
+node2 = TreeNode(name="Attach Backrest Slats (26) with node1", id="Step 2", text="Insert the backrest slats (26) into the slots on the leg frame. Ensure that the slats are facing outward and securely fitted to provide back support.")
+
+node2.add_child(leaf4)
+node2.add_child(node1)
+
+node3 = TreeNode(name="Connect Seat Cushion (24) with node2", id="Step 3", text="Place the seat cushion (24) on top of the assembled frame. Align the cushion with the edges of the frame for balance and comfort.")
+
+node3.add_child(leaf5)
+node3.add_child(node2)
+
+root = node3
+
+YOUR REAL INPUT:

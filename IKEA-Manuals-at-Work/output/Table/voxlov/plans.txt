@@ -1,0 +1,19 @@
+
+03:00PM on January 05, 2025
+=================================================================
+There are three pages of the setup manual overlayed with mask segmentations. Thus, there are three total steps.
+
+### Step 1:
+- **Parts Needed:** Backrest Frame (0), Front Leg Frame (2)
+- **Instructions:**
+  - **Connect Frames:** Align and connect the backrest frame (0) with the front leg frame (2) as shown in the manual. The green and purple segments indicate the positioning of each frame.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Side Panel (3)
+- **Instructions:**
+  - **Attach Side Panel:** Secure the side panel (3) to the subassembly from Step 1. The red segment highlights the side panel's position.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 2, Seat Panel (1)
+- **Instructions:**
+  - **Install Seat Panel:** Place and attach the seat panel (1) onto the assembled frame from Step 2. The green segment indicates the seat panel's placement.

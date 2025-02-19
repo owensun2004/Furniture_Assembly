@@ -1,0 +1,49 @@
+
+02:27PM on January 05, 2025
+=================================================================
+There are nine pages in the setup manual, indicating nine steps for assembly.
+
+### Step 1:
+- **Parts Needed:** Long Leg (0), Long Leg (1), Frame (4)
+- **Instructions:**
+  - **Attach Legs to Frame:** Connect the long legs (0, 1) to the frame (4) as shown in the manual.
+
+### Step 2:
+- **Parts Needed:** Long Leg (2), Subassembly from Step 1
+- **Instructions:**
+  - **Add Third Leg:** Attach the third long leg (2) to the existing assembly.
+
+### Step 3:
+- **Parts Needed:** Long Leg (3), Subassembly from Step 2
+- **Instructions:**
+  - **Add Fourth Leg:** Attach the fourth long leg (3) to complete the leg structure.
+
+### Step 4:
+- **Parts Needed:** Frame (11), Subassembly from Step 3
+- **Instructions:**
+  - **Attach Top Frame:** Secure the frame (11) on top of the leg assembly.
+
+### Step 5:
+- **Parts Needed:** Support Bar (8), Support Bar (9), Support Bar (10)
+- **Instructions:**
+  - **Assemble Support Bars:** Connect support bars (8, 9, 10) to form a U-shape.
+
+### Step 6:
+- **Parts Needed:** Seat (13), Subassembly from Step 5
+- **Instructions:**
+  - **Attach Seat:** Secure the seat (13) onto the U-shaped support bar assembly.
+
+### Step 7:
+- **Parts Needed:** Subassembly from Step 6, Support Bar (12), Support Bar (14)
+- **Instructions:**
+  - **Add Additional Support Bars:** Attach support bars (12, 14) to the existing structure for added stability.
+
+### Step 8:
+- **Parts Needed:** Short Leg (5), Short Leg (6), Short Leg (7)
+- **Instructions:**
+  - **Attach Short Legs:** Secure the short legs (5, 6, 7) to the sides of the assembly for additional support.
+
+### Step 9:
+- **Parts Needed:** Support Bar (9), Subassembly from Step 8
+- **Instructions:**
+  - **Final Stabilization:** Attach the final support bar (9) to complete the assembly.

@@ -1,0 +1,23 @@
+
+[
+    {
+        "name": "table top",
+        "number": [3]
+    },
+    {
+        "name": "crossbar",
+        "number": [0]
+    },
+    {
+        "name": "leg",
+        "number": [4]
+    },
+    {
+        "name": "seat",
+        "number": [1]
+    },
+    {
+        "name": "seat",
+        "number": [2]
+    }
+]

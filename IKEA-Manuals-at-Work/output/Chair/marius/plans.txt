@@ -1,0 +1,14 @@
+
+02:27PM on January 05, 2025
+=================================================================
+There are two pages of the setup manual overlayed with mask segmentations, indicating two total steps.
+
+### Step 1:
+- **Parts Needed:** Backrest Frame (0), Leg Frame (1)
+- **Instructions:**
+  - **Connect Frames:** Align and connect the backrest frame (0) with the leg frame (1) as shown in the manual. The red and green segments indicate the positioning of each frame.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Seat (2)
+- **Instructions:**
+  - **Attach Seat:** Secure the seat (2) onto the assembled frame from Step 1. The green segment shows the seat's placement on the frame.

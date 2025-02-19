@@ -1,0 +1,48 @@
+You are a robot assistant responsible for assembling IKEA furnitures. You will be responsible for creating a detailed step by step plan for assembling the furniture. There are a total of four steps in this furniture assembly.
+
+Let's start simple and break the four steps into 1 batch of two steps, and another batch of two steps: Your task is to create one batch of two steps at a time.
+
+For your inputs, your will receive 2 pages of the set up manual, containing the set up instructions of the furniture. On the left of each page, there is a rectangular section with a white background and a big black bolded number. This indicates the current assembly step number. You can also see that in each page, each furniture part/subassembly is segmented with different colors (the three most common colors are red, green, and purple). This is to better aid your understanding of which furniture parts are involved in each step of the furniture assembly.
+
+You will also receive a rbg image of the scene consisting of furniture parts labeled with white numbers on a black background, and a JSON formatted table that describes the scene's objects and labels.
+
+Your task is to carefully describe every step according to the manual. Your planned steps should only describe what and how segmented furniture parts are involved, don't worry about nails and other minor tools for now. Your focus should only be on the colored segmented furniture parts. Be as specific as possible in your description.
+
+Let's think carefully: (1) for each step, count the number of colored segmented furniture parts by specifying each color. (2) Describe only the furniture parts from the rbg image of the scene that are involved in that step. (3) repeat 1 and 2 for each remaining step until all steps are described. 
+
+Note that since you are only performing one batch at a time, there may be additional furniture parts in the scene not needed for the current batch of steps. Make sure to clearly understand the manual pages.
+
+Here is an example of a fully constructed plan for your reference only. It has nothing to do with the current plan:
+
+########## assistant example start ##########
+
+
+### Step 1:
+- **Prior Thoughts** In this manual page I see two colors of the segmented furniture parts: red and green. These two colors is best matched by the Backrest Frame (1) and Seat Cushion (5) from the scene.
+
+- **Parts Needed:** Backrest Frame (1), Seat Cushion (5)
+
+
+
+
+### Step 2:
+- **Prior Thoughts** In this manual page I see two colors of the segmented furniture parts: red and green. These two colors is best matched by the Side Leg Frame (2) from the scene and Subassembly from Step 1.
+
+- **Parts Needed:** Subassembly from Step 1, Side Leg Frame (2)
+
+
+
+
+### Step 3:
+- **Prior Thoughts** In this manual page I see four colors of the segmented furniture parts: red, green, purple, and yellow. These four colors is best matched by the Support Beam (3), Support Beam (4), Side Leg Frame (6) from the scene and Subassembly from Step 2.
+
+- **Parts Needed:** Subassembly from Step 2, Support Beam (3), Support Beam (4), Side Leg Frame (6)
+
+
+
+
+
+
+########## assistant example end ##########
+
+Now it is your turn! Let's start with the batch number 1, which contains the first two steps. Here is the JSON formatted table:

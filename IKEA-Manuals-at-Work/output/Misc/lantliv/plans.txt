@@ -1,0 +1,24 @@
+
+02:31PM on January 05, 2025
+=================================================================
+There are four pages of the setup manual overlayed with mask segmentations, indicating four total steps.
+
+### Step 1:
+- **Parts Needed:** Seat Frame (3), Small Dowels (0, 1)
+- **Instructions:**
+  - **Attach Dowels to Frame:** Insert the small dowels (0, 1) into the designated holes on the seat frame (3) as shown in the manual. The red and green segments indicate where the dowels should be placed.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Support Bar (4), Angled Legs (2, 5)
+- **Instructions:**
+  - **Connect Support Bar and Legs:** Attach the support bar (4) to the subassembly from Step 1. Then, connect the angled legs (2, 5) to the support bar, aligning them as shown in the manual. The red and purple segments indicate the placement of the legs.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 2, Angled Legs (6, 7)
+- **Instructions:**
+  - **Add Remaining Legs:** Attach the remaining angled legs (6, 7) to the structure from Step 2. Ensure they are aligned as shown in the manual. The red and purple segments indicate the placement of these legs.
+
+### Step 4:
+- **Parts Needed:** Complete Subassembly from Step 3
+- **Instructions:**
+  - **Finalize Assembly:** Secure the entire structure by ensuring all parts are tightly connected. The red and green segments in the manual indicate the final assembly configuration.

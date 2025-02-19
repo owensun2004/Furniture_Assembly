@@ -1,0 +1,29 @@
+
+02:39PM on January 05, 2025
+=================================================================
+There are five pages of the setup manual, indicating five steps for assembly.
+
+### Step 1:
+- **Parts Needed:** Side Panels (1, 2, 3), Support Bar (8), Support Frame (9)
+- **Instructions:**
+  - **Assemble Frame:** Connect the side panels (1, 2, 3) with the support bar (8) and support frame (9) to form the basic structure as shown in the manual.
+
+### Step 2:
+- **Parts Needed:** Top Frame (4), Shelf (5)
+- **Instructions:**
+  - **Attach Top Frame and Shelf:** Place the top frame (4) on top of the structure and align the shelf (5) beneath it as depicted in the manual.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 2, Shelf (6)
+- **Instructions:**
+  - **Add Shelf:** Insert the second shelf (6) into the structure, ensuring it is securely positioned as shown in the manual.
+
+### Step 4:
+- **Parts Needed:** Subassembly from Step 3, Shelf (7)
+- **Instructions:**
+  - **Insert Final Shelf:** Slide the third shelf (7) into place, completing the shelving unit as illustrated in the manual.
+
+### Step 5:
+- **Parts Needed:** Completed Structure
+- **Instructions:**
+  - **Final Adjustments:** Ensure all parts are securely connected and aligned as shown in the final step of the manual.

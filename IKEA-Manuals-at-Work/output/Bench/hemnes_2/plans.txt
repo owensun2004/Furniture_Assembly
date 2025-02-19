@@ -1,0 +1,26 @@
+
+02:25PM on January 05, 2025
+=================================================================
+There are four pages of the setup manual, each with a big, bold black number indicating the step. Thus, there are four total steps.
+
+### Step 1:
+- **Parts Needed:** Seat (3), Support Bar (4), Support Bar (5)
+- **Instructions:**
+  - **Attach Support Bars to Seat:** Connect the support bars (4) and (5) to the seat (3) as shown in the manual. The red section represents the seat, while the green and purple sections represent the support bars.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Back Frame (0)
+- **Instructions:**
+  - **Connect Back Frame:** Attach the back frame (0) to the subassembly from Step 1. The green section represents the back frame, and the red section is the seat.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 2, Side Leg (1), Side Leg (2)
+- **Instructions:**
+  - **Attach Side Legs:** Connect the side legs (1) and (2) to the subassembly. The green section represents the side legs.
+
+### Step 4:
+- **Parts Needed:** Subassembly from Step 3, Support Bars (6, 7), Side Panels (8-14)
+- **Instructions:**
+  - **Complete Structure:** Attach the remaining support bars (6, 7) and side panels (8-14) to the subassembly. The green section represents the support bars, and the red section represents the side panels.
+
+Follow these steps to assemble the furniture as depicted in the manual.

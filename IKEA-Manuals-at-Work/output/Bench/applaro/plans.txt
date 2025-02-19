@@ -1,0 +1,16 @@
+
+02:21PM on January 05, 2025
+=================================================================
+There are two pages of the setup manual overlayed with mask segmentations, indicating two total steps.
+
+### Step 1:
+- **Parts Needed:** Support Bar (0), Seat (1), Leg Frame (2)
+- **Instructions:**
+  - **Attach Leg Frame and Support Bar:** Position the leg frame (2) vertically and connect it to the seat (1) using the support bar (0) as shown in the manual. The seat is highlighted in purple, the support bar in red, and the leg frame in green.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Leg Frame (3)
+- **Instructions:**
+  - **Attach Second Leg Frame:** Connect the second leg frame (3) to the opposite side of the seat (1) to complete the structure. The new leg frame is highlighted in green, while the rest of the assembly is in red.
+
+These steps follow the manual's instructions for assembling the furniture using the identified parts.

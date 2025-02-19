@@ -1,0 +1,19 @@
+
+02:58PM on January 05, 2025
+=================================================================
+There are three pages of the setup manual overlayed with mask segmentations. Thus, there are three total steps.
+
+### Step 1:
+- **Parts Needed:** Crossbar (0), Legs (4)
+- **Instructions:**
+  - **Assemble Frame:** Connect the crossbar (0) to the legs (4) to form the base structure. The crossbar should be attached horizontally between the legs, as shown in the red and purple segments.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Seats (1, 2)
+- **Instructions:**
+  - **Attach Lower Shelf:** Secure the seats (1, 2) to the frame from Step 1. These will act as the lower shelf, positioned horizontally, as indicated by the green segment.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 2, Table Top (3)
+- **Instructions:**
+  - **Place Table Top:** Position the table top (3) on top of the assembled frame. Ensure it is centered and securely placed, as shown in the green segment.

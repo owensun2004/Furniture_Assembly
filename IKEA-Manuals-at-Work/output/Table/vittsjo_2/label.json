@@ -1,0 +1,35 @@
+
+[
+    {
+        "name": "table top",
+        "number": [0]
+    },
+    {
+        "name": "corner bracket",
+        "number": [1]
+    },
+    {
+        "name": "leg bracket",
+        "number": [2]
+    },
+    {
+        "name": "leg bracket",
+        "number": [3]
+    },
+    {
+        "name": "frame",
+        "number": [4]
+    },
+    {
+        "name": "leg frame",
+        "number": [5]
+    },
+    {
+        "name": "leg",
+        "number": [6]
+    },
+    {
+        "name": "leg frame",
+        "number": [7]
+    }
+]

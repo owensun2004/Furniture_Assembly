@@ -1,0 +1,79 @@
+
+[
+    {
+        "name": "seat panel",
+        "number": [0]
+    },
+    {
+        "name": "back panel",
+        "number": [1]
+    },
+    {
+        "name": "side panel",
+        "number": [2]
+    },
+    {
+        "name": "side panel",
+        "number": [3]
+    },
+    {
+        "name": "bottom panel",
+        "number": [4]
+    },
+    {
+        "name": "leg",
+        "number": [5]
+    },
+    {
+        "name": "leg",
+        "number": [6]
+    },
+    {
+        "name": "leg",
+        "number": [7]
+    },
+    {
+        "name": "leg",
+        "number": [8]
+    },
+    {
+        "name": "support bar",
+        "number": [9]
+    },
+    {
+        "name": "support bar",
+        "number": [10]
+    },
+    {
+        "name": "support bar",
+        "number": [11]
+    },
+    {
+        "name": "support bar",
+        "number": [12]
+    },
+    {
+        "name": "support bar",
+        "number": [13]
+    },
+    {
+        "name": "support bar",
+        "number": [14]
+    },
+    {
+        "name": "connector",
+        "number": [15]
+    },
+    {
+        "name": "connector",
+        "number": [16]
+    },
+    {
+        "name": "connector",
+        "number": [17]
+    },
+    {
+        "name": "connector",
+        "number": [18]
+    }
+]

@@ -1,0 +1,47 @@
+
+[
+    {
+        "name": "backrest",
+        "number": [0]
+    },
+    {
+        "name": "seat",
+        "number": [1]
+    },
+    {
+        "name": "leg",
+        "number": [2]
+    },
+    {
+        "name": "leg",
+        "number": [3]
+    },
+    {
+        "name": "support bar",
+        "number": [4]
+    },
+    {
+        "name": "support bar",
+        "number": [5]
+    },
+    {
+        "name": "side panel",
+        "number": [6]
+    },
+    {
+        "name": "support bar",
+        "number": [7]
+    },
+    {
+        "name": "support bar",
+        "number": [8]
+    },
+    {
+        "name": "side panel",
+        "number": [9]
+    },
+    {
+        "name": "side panel",
+        "number": [10]
+    }
+]

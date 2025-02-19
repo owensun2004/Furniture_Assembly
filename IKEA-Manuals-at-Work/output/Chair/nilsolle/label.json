@@ -1,0 +1,27 @@
+
+[
+    {
+        "name": "seat",
+        "number": [0]
+    },
+    {
+        "name": "side bar",
+        "number": [1]
+    },
+    {
+        "name": "side bar",
+        "number": [2]
+    },
+    {
+        "name": "leg frame",
+        "number": [3]
+    },
+    {
+        "name": "support bar",
+        "number": [4]
+    },
+    {
+        "name": "leg frame",
+        "number": [5]
+    }
+]

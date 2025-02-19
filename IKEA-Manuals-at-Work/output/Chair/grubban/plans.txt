@@ -1,0 +1,24 @@
+
+02:40PM on January 05, 2025
+=================================================================
+There are four pages of the setup manual overlayed with mask segmentations, indicating four total steps.
+
+### Step 1:
+- **Parts Needed:** Frame Piece (0), Support Bar (2), Support Bar (3)
+- **Instructions:**
+  - **Assemble Base:** Connect the frame piece (0) with support bars (2) and (3) as shown in the manual. Align the parts to form the base structure.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Support Bar (4)
+- **Instructions:**
+  - **Add Support Bar:** Attach support bar (4) to the existing assembly from Step 1. Ensure it is securely connected to enhance stability.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 2, Support Bar (5)
+- **Instructions:**
+  - **Install Additional Support:** Insert support bar (5) into the structure from Step 2. This will provide additional support to the frame.
+
+### Step 4:
+- **Parts Needed:** Frame Piece (1), Subassembly from Step 3
+- **Instructions:**
+  - **Complete Frame:** Attach the second frame piece (1) to the subassembly from Step 3. Align and secure all connections to finalize the frame structure.

@@ -1,0 +1,27 @@
+
+[
+    {
+        "name": "tabletop",
+        "number": [0]
+    },
+    {
+        "name": "leg frame",
+        "number": [1]
+    },
+    {
+        "name": "leg frame",
+        "number": [2]
+    },
+    {
+        "name": "curved support",
+        "number": [3]
+    },
+    {
+        "name": "small support bar",
+        "number": [4]
+    },
+    {
+        "name": "small support bar",
+        "number": [5]
+    }
+]

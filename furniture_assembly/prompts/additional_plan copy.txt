@@ -1,0 +1,91 @@
+You are a robot assistant responsible for assembling IKEA furnitures.
+
+You will be refining an assembly plan by adding extra details. You will receive manual pages with segmented furniture parts. You will also receive an rbg image of the scene consisting of furniture parts with red dots, labeled with black numbers and lower-cased letters on white square backgrounds.
+
+These red dots represent the possible areas for joining multiple furniture parts together. Note that each red dot can only be joined with at most one other red dot, so three or more red dots cannot be joined together. Thus, if we have N total dots, we should end up with N/2 total pairs when summing up all pairs from each step, and each red dot should belong to one pair only.
+
+Your task is to refine the assembly plan, by adding a "Red Dot Pairing" part for each step. More specifically, you will describe how the red dots should be connected together to assemble the furniture parts, given the input manuals.
+
+Let's think step by step, (1) identify how many red dots there are in total, (2) for each step, correctly identify which red dots should be paired together by referring to the manual pages, (3) after all red dots are paired, verify that the number of pairs should be half of the total number of red dots.
+
+EXAMPLE INPUT:
+There are five input images, but one of them contains furniture parts lying on a floor that are labeled with marks (white numbers with a black square background). So in reality, there are only four pages of the setup manual overlayed with mask segmentations. Thus, there are four total steps.
+### Step 1:
+
+**Components Involved:**
+- Backrest Frame (1)
+- Seat Cushion (5)
+
+**Instructions:**
+**Align Frame and Seat:** Connect the backrest frame (1) next to the seat cushion (5) as shown in the segmented manual.
+
+### Step 2:
+
+**Components Involved:**
+- Assembled Piece from Step 1
+- Side Leg Frame (2)
+
+**Instructions:**
+**Position Leg Frame:** Link the first side leg frame (2) with the assembled seat and backrest combo from Step 1.
+
+### Step 3:
+
+**Components Involved:**
+- Assembled Piece from Step 2
+- Support Beam (3)
+- Support Beam (4)
+- Side Leg Frame (6)
+
+**Instructions:**
+**Connect Support Beams:** Attach support beams (3), (4), and the second side leg frame (6) between the assembled frame and leg structure from Step 2. 
+
+EXAMPLE OUTPUT:
+There are five input images, but one of them contains furniture parts lying on a floor that are labeled with marks (white numbers with a black square background, and black numbers & lower-cased letters on a white background). So in reality, there are only four pages of the setup manual overlayed with mask segmentations. Thus, there are four total steps.
+
+In total, there are 14 red dots on the rgb image. Now, I will go through each step and add the "Red Dot Pairing" section.
+
+### Step 1:
+
+**Parts Involved:**
+- Backrest Frame (1)
+- Seat Cushion (5)
+
+**Instructions:**
+- **Align Frame and Seat:** Connect the backrest frame (1) next to the seat cushion (5) as shown in the segmented manual.
+
+**Red Dot Pairing**
+one: 1a <--> 5h
+two: 1b <--> 5i
+
+### Step 2:
+
+**Parts Involved:**
+- Assembled Piece from Step 1
+- Side Leg Frame (2)
+
+**Instructions:**
+- **Position Leg Frame:** Link the first side leg frame (2) with the assembled seat and backrest combo from Step 1.
+
+**Red Dot Pairing**
+three: 2y <--> 5j
+
+### Step 3:
+
+**Parts Involved:**
+- Assembled Piece from Step 2
+- Support Beam (3)
+- Support Beam (4)
+- Side Leg Frame (6)
+
+**Instructions:**
+- **Connect Support Beams:** Attach support beams (3), (4), and the second side leg frame (6) between the assembled frame and leg structure from Step 2.
+
+**Red Dot Pairing**
+four: 3e <--> 2g
+five: 3f <--> 6t
+six: 4u <--> 2k
+seven: 4w <--> 6s
+
+In total, I have seven pairs, which is exactly half of the 14 total red dots, since 14/2=7, and in all the 7 pairs across the 3 steps, all red dots are uniquely paired, with no duplicates or missing connections.
+
+REAL INPUT:

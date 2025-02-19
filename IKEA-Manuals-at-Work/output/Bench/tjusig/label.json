@@ -1,0 +1,59 @@
+
+[
+    {
+        "name": "back panel",
+        "number": [0]
+    },
+    {
+        "name": "seat panel",
+        "number": [1]
+    },
+    {
+        "name": "side rail",
+        "number": [2]
+    },
+    {
+        "name": "side rail",
+        "number": [3]
+    },
+    {
+        "name": "support bracket",
+        "number": [4]
+    },
+    {
+        "name": "support bracket",
+        "number": [5]
+    },
+    {
+        "name": "front rail",
+        "number": [6]
+    },
+    {
+        "name": "back rail",
+        "number": [7]
+    },
+    {
+        "name": "leg",
+        "number": [8]
+    },
+    {
+        "name": "leg",
+        "number": [9]
+    },
+    {
+        "name": "leg",
+        "number": [10]
+    },
+    {
+        "name": "leg",
+        "number": [11]
+    },
+    {
+        "name": "armrest",
+        "number": [12]
+    },
+    {
+        "name": "armrest",
+        "number": [13]
+    }
+]

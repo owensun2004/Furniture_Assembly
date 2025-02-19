@@ -1,0 +1,35 @@
+
+[
+    {
+        "name": "cross bar",
+        "number": [0]
+    },
+    {
+        "name": "long support",
+        "number": [1]
+    },
+    {
+        "name": "long support",
+        "number": [2]
+    },
+    {
+        "name": "short support",
+        "number": [3]
+    },
+    {
+        "name": "leg",
+        "number": [4]
+    },
+    {
+        "name": "leg",
+        "number": [5]
+    },
+    {
+        "name": "seat",
+        "number": [6]
+    },
+    {
+        "name": "backrest",
+        "number": [7]
+    }
+]

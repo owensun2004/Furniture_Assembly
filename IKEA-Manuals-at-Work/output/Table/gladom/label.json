@@ -1,0 +1,19 @@
+
+[
+    {
+        "name": "frame",
+        "number": [0]
+    },
+    {
+        "name": "round top",
+        "number": [1]
+    },
+    {
+        "name": "circular support",
+        "number": [2]
+    },
+    {
+        "name": "square base",
+        "number": [3]
+    }
+]

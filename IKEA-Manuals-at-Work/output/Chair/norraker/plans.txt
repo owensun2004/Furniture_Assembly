@@ -1,0 +1,31 @@
+
+02:32PM on January 05, 2025
+=================================================================
+There are five pages of the setup manual, each with a big, bold black number indicating the step. Thus, there are five total steps.
+
+### Step 1:
+- **Parts Needed:** Side Frame (1), Leg (3)
+- **Instructions:**
+  - **Attach Leg to Frame:** Connect the leg (3) to the side frame (1) as shown in the green segment of the manual.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Side Frame (2), Leg (5)
+- **Instructions:**
+  - **Add Second Side Frame and Leg:** Attach the second side frame (2) and leg (5) to the existing assembly from Step 1, as indicated in the red segment.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 2, Seat (4)
+- **Instructions:**
+  - **Install Seat:** Place the seat (4) onto the frame structure from Step 2, aligning it as shown in the green segment.
+
+### Step 4:
+- **Parts Needed:** Subassembly from Step 3, Backrest (0)
+- **Instructions:**
+  - **Attach Backrest:** Secure the backrest (0) to the assembled structure from Step 3, following the red segment.
+
+### Step 5:
+- **Parts Needed:** Fully Assembled Chair
+- **Instructions:**
+  - **Final Adjustments:** Ensure all parts are securely connected and aligned, as shown in the green segment. Make any necessary adjustments for stability.
+
+Follow these steps to complete the assembly of the chair according to the manual.

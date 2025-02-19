@@ -1,0 +1,26 @@
+
+02:46PM on January 05, 2025
+=================================================================
+There are four pages of the setup manual overlayed with mask segmentations, indicating four total steps.
+
+### Step 1:
+- **Parts Needed:** Curved Support (3), Leg Frame (1)
+- **Instructions:**
+  - **Attach Curved Support:** Connect the curved support (3) to the leg frame (1) as shown in the red and green segments in the manual.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Small Support Bar (4), Small Support Bar (5)
+- **Instructions:**
+  - **Install Support Bars:** Attach the small support bars (4) and (5) to the subassembly from Step 1, as indicated by the purple and green segments.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 2, Leg Frame (2)
+- **Instructions:**
+  - **Add Second Leg Frame:** Connect the second leg frame (2) to the existing structure from Step 2, as shown in the red and green segments.
+
+### Step 4:
+- **Parts Needed:** Subassembly from Step 3, Tabletop (0)
+- **Instructions:**
+  - **Secure Tabletop:** Attach the tabletop (0) to the assembled frame from Step 3, as indicated by the red segment in the manual.
+
+Follow these steps to complete the assembly of the furniture as described in the manual.

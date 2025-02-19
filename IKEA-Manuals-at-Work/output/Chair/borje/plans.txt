@@ -1,0 +1,21 @@
+
+02:33PM on January 05, 2025
+=================================================================
+There are three pages of the setup manual overlayed with mask segmentations, indicating three total steps.
+
+### Step 1:
+- **Parts Needed:** Seat Frame (3), Armrests (1)
+- **Instructions:**
+  - **Attach Armrests:** Connect the armrests (1) to the seat frame (3) as shown in the manual. The armrests are highlighted in red and purple, while the seat frame is in green.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Leg Frame (2)
+- **Instructions:**
+  - **Add Leg Frame:** Position the leg frame (2) onto the subassembly from Step 1. The leg frame is highlighted in green, and the rest of the structure is in red.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 2, Cushion (4)
+- **Instructions:**
+  - **Place Cushion:** Insert the cushion (4) onto the seat frame. The cushion is highlighted in green, and the assembled chair is in red.
+
+These steps follow the manual's instructions, focusing on the colored segmented parts for clarity.

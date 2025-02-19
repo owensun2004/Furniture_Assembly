@@ -1,0 +1,14 @@
+
+02:45PM on January 05, 2025
+=================================================================
+There are two pages of the setup manual overlayed with mask segmentations, indicating two total steps.
+
+### Step 1:
+- **Parts Needed:** Base (6)
+- **Instructions:**
+  - **Attach Wheels:** Insert the wheels into the base (6) as shown in the manual. Each wheel is color-coded to match its position on the base.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Seat (7)
+- **Instructions:**
+  - **Connect Seat to Base:** Align the seat (7) with the top of the base assembly from Step 1. Secure the seat onto the base as indicated by the green arrow in the manual.

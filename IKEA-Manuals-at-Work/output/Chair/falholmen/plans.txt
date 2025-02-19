@@ -1,0 +1,31 @@
+
+02:36PM on January 05, 2025
+=================================================================
+There are five pages of the setup manual, each with a distinct assembly step. Here is the detailed step-by-step plan:
+
+### Step 1:
+- **Parts Needed:** Backrest Slats (4), Seat Frame (1)
+- **Instructions:**
+  - **Attach Backrest Slats to Seat Frame:** Connect the backrest slats (4) to the seat frame (1) as shown in the manual. The backrest slats are highlighted in green, and the seat frame is in red.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Vertical Support (5)
+- **Instructions:**
+  - **Add Vertical Support:** Attach the vertical support (5) to the subassembly from Step 1. The vertical support is highlighted in green.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 2, Backrest Frame (0)
+- **Instructions:**
+  - **Connect Backrest Frame:** Secure the backrest frame (0) to the existing structure. The backrest frame is highlighted in green.
+
+### Step 4:
+- **Parts Needed:** Subassembly from Step 3, Side Support (2), Side Support (6)
+- **Instructions:**
+  - **Attach Side Supports:** Connect the side supports (2) and (6) to the subassembly. The side supports are highlighted in green and purple.
+
+### Step 5:
+- **Parts Needed:** Subassembly from Step 4, Seat Slats (3)
+- **Instructions:**
+  - **Install Seat Slats:** Attach the seat slats (3) to complete the assembly. The seat slats are highlighted in green.
+
+Follow these steps to assemble the furniture as depicted in the manual.

@@ -1,0 +1,9 @@
+
+02:48PM on January 05, 2025
+=================================================================
+There is one page of the setup manual overlayed with mask segmentations, indicating one step.
+
+### Step 1:
+- **Parts Needed:** Seat (0), Base Frame (1)
+- **Instructions:**
+  - **Attach Seat to Base Frame:** Position the seat (0) on top of the base frame (1) as shown in the manual. The seat is highlighted in red, and the base frame is highlighted in green. Ensure the seat is securely aligned with the frame for stability.

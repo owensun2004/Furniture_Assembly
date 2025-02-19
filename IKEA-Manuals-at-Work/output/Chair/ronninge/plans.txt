@@ -1,0 +1,41 @@
+
+02:40PM on January 05, 2025
+=================================================================
+There are seven pages in the setup manual, indicating seven steps for assembly.
+
+### Step 1:
+- **Parts Needed:** Side Frame (3), Support Bar (7)
+- **Instructions:**
+  - **Attach Support Bar:** Connect the support bar (7) to the side frame (3) as shown in the red and green segments.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Side Frame (4)
+- **Instructions:**
+  - **Add Second Side Frame:** Attach the second side frame (4) to the existing structure from Step 1, as indicated by the green segment.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 2, Support Bar (5)
+- **Instructions:**
+  - **Install Support Bar:** Connect the support bar (5) to the top of the frame, as shown in the green segment.
+
+### Step 4:
+- **Parts Needed:** Subassembly from Step 3, Support Bar (2)
+- **Instructions:**
+  - **Add Lower Support Bar:** Attach the lower support bar (2) to the frame, as indicated by the green segment.
+
+### Step 5:
+- **Parts Needed:** Subassembly from Step 4, Seat (1)
+- **Instructions:**
+  - **Attach Seat:** Secure the seat (1) to the frame, aligning with the green segment.
+
+### Step 6:
+- **Parts Needed:** Subassembly from Step 5, Backrest (0)
+- **Instructions:**
+  - **Install Backrest:** Attach the backrest (0) to the top of the frame, as shown in the green segment.
+
+### Step 7:
+- **Parts Needed:** Subassembly from Step 6, Seat Cushion (6)
+- **Instructions:**
+  - **Place Seat Cushion:** Position the seat cushion (6) on top of the seat, aligning with the green segment.
+
+Follow these steps to complete the assembly of the chair as per the IKEA manual.

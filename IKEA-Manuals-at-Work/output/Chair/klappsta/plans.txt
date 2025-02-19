@@ -1,0 +1,14 @@
+
+02:46PM on January 05, 2025
+=================================================================
+There are two pages of the setup manual overlayed with mask segmentations, so there are two total steps.
+
+### Step 1:
+- **Parts Needed:** Back Leg (0), Side Frame (1), Front Leg (2), Side Frame (3)
+- **Instructions:**
+  - **Assemble Frame Structure:** Connect the back leg (0) and front leg (2) with the side frames (1 and 3) to form the base structure. The green and purple segments indicate where the legs and frames should be aligned and connected.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Seat Cushion (4)
+- **Instructions:**
+  - **Attach Seat Cushion:** Place the seat cushion (4) onto the assembled frame from Step 1. Ensure the cushion is securely positioned as shown in the manual, with the red segment indicating the attachment points.

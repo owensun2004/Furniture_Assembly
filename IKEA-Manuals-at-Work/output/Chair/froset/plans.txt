@@ -1,0 +1,29 @@
+
+02:38PM on January 05, 2025
+=================================================================
+There are five pages of the setup manual overlayed with mask segmentations, indicating five total steps.
+
+### Step 1:
+- **Parts Needed:** Seat (1), Leg (4), Leg (7)
+- **Instructions:**
+  - **Attach Legs to Seat:** Connect the legs (4) and (7) to the seat (1) as shown in the segmented manual.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Armrest (3), Armrest (5)
+- **Instructions:**
+  - **Secure Armrests:** Attach armrests (3) and (5) to the subassembly from Step 1.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 2, Backrest Frame (0)
+- **Instructions:**
+  - **Install Backrest Frame:** Connect the backrest frame (0) to the subassembly from Step 2.
+
+### Step 4:
+- **Parts Needed:** Subassembly from Step 3, Backrest Frame (6)
+- **Instructions:**
+  - **Add Second Backrest Frame:** Attach the second backrest frame (6) to the subassembly from Step 3.
+
+### Step 5:
+- **Parts Needed:** Subassembly from Step 4, Seat (2)
+- **Instructions:**
+  - **Complete with Second Seat:** Secure the second seat (2) to the subassembly from Step 4 to complete the chair assembly.

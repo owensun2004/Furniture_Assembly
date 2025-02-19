@@ -1,0 +1,14 @@
+
+02:45PM on January 05, 2025
+=================================================================
+There are two pages of the setup manual overlayed with mask segmentations, indicating two total steps.
+
+### Step 1:
+- **Parts Needed:** Frame Piece (0)
+- **Instructions:**
+  - **Attach Frame Piece:** Connect the frame piece (0) to the seat as shown in the manual. The frame piece is highlighted in red, indicating its position and alignment with the seat.
+
+### Step 2:
+- **Parts Needed:** Frame Piece (1), Subassembly from Step 1
+- **Instructions:**
+  - **Add Second Frame Piece:** Attach the second frame piece (1) to the existing assembly from Step 1. The new frame piece is highlighted in green, showing how it connects to the first frame piece and the seat.

@@ -1,0 +1,19 @@
+
+02:43PM on January 05, 2025
+=================================================================
+There are three pages of the setup manual overlayed with mask segmentations, indicating three total steps.
+
+### Step 1:
+- **Parts Needed:** Leg Frame (1), Support Bar (2)
+- **Instructions:**
+  - **Assemble Leg Frame and Support Bar:** Connect the leg frame (1) with the support bar (2) as shown in the red and green segments in the manual.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Leg Frame (4), Support Bar (3)
+- **Instructions:**
+  - **Attach Second Leg Frame and Support Bar:** Add the second leg frame (4) and support bar (3) to the existing structure from Step 1, following the red and green segments.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 2, Tabletop (0)
+- **Instructions:**
+  - **Secure Tabletop:** Place the tabletop (0) onto the assembled leg and support structure from Step 2, aligning as indicated by the red and green segments in the manual.

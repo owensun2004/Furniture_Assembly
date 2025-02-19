@@ -1,0 +1,39 @@
+
+02:34PM on January 05, 2025
+=================================================================
+There are seven pages in the setup manual, indicating seven steps for assembly.
+
+### Step 1:
+- **Parts Needed:** Circular Base (10), Short Bar (6), Straight Bar (5)
+- **Instructions:**
+  - **Assemble Base and Bars:** Connect the circular base (10) with the short bar (6) and straight bar (5) as shown in the manual.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Angled Leg (2), Angled Leg (3)
+- **Instructions:**
+  - **Attach Angled Legs:** Connect the angled legs (2) and (3) to the subassembly from Step 1.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 2, Ring (8)
+- **Instructions:**
+  - **Add Ring Support:** Attach the ring (8) to the assembled structure for additional support.
+
+### Step 4:
+- **Parts Needed:** Curved Piece (0), Curved Piece (1)
+- **Instructions:**
+  - **Connect Curved Pieces:** Attach the curved pieces (0) and (1) to form a circular structure on top of the base.
+
+### Step 5:
+- **Parts Needed:** Subassembly from Step 4, Straight Bar (4)
+- **Instructions:**
+  - **Secure with Straight Bar:** Use the straight bar (4) to secure the structure from Step 4.
+
+### Step 6:
+- **Parts Needed:** Subassembly from Step 5, Circular Base (10)
+- **Instructions:**
+  - **Finalize Base Assembly:** Attach the second circular base (10) to complete the base structure.
+
+### Step 7:
+- **Parts Needed:** Subassembly from Step 6
+- **Instructions:**
+  - **Final Assembly Check:** Ensure all parts are securely connected and the structure is stable.

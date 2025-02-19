@@ -1,0 +1,19 @@
+
+02:42PM on January 05, 2025
+=================================================================
+There are three pages of the setup manual overlayed with mask segmentations, indicating three total steps.
+
+### Step 1:
+- **Parts Needed:** Small Rod (0), Small Rod (1)
+- **Instructions:**
+  - **Connect Rods:** Align and connect the two small rods (0 and 1) as shown in the segmented manual. These rods will form the cross-section support for the legs.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Leg (3), Leg (4), Leg (5), Leg (6)
+- **Instructions:**
+  - **Attach Legs:** Connect each leg (3, 4, 5, and 6) to the subassembly from Step 1. Ensure each leg is securely attached to the rods, forming the frame structure.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 2, Round Base (2)
+- **Instructions:**
+  - **Secure Base:** Attach the round base (2) to the bottom of the leg assembly from Step 2. Ensure the base is centered and firmly connected to provide stability to the structure.

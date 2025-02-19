@@ -1,0 +1,24 @@
+
+02:34PM on January 05, 2025
+=================================================================
+There are four pages of the setup manual overlayed with mask segmentations, indicating four total steps.
+
+### Step 1:
+- **Parts Needed:** Long Support Bar (8), Short Support Bar (9), Angled Support (4), Angled Support (5)
+- **Instructions:**
+  - **Assemble Base:** Connect the long support bar (8) with the short support bar (9) using the angled supports (4) and (5) to form a stable base.
+
+### Step 2:
+- **Parts Needed:** Round Leg (0), Round Leg (1), Round Leg (2)
+- **Instructions:**
+  - **Attach Legs:** Secure the round legs (0), (1), and (2) to the base structure from Step 1, ensuring they are evenly spaced.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 2, Long Support Bar (6)
+- **Instructions:**
+  - **Add Horizontal Support:** Attach the long support bar (6) horizontally across the top of the round legs to provide additional stability.
+
+### Step 4:
+- **Parts Needed:** Subassembly from Step 3, Short Support Bar (7), Long Support Bar (8)
+- **Instructions:**
+  - **Complete Structure:** Connect the short support bar (7) and the long support bar (8) to finalize the structure, ensuring all parts are securely fastened.

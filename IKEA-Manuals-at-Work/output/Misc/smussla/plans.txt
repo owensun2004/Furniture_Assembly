@@ -1,0 +1,36 @@
+
+02:36PM on January 05, 2025
+=================================================================
+There are six pages in the setup manual, indicating six steps for assembly.
+
+### Step 1:
+- **Parts Needed:** Bottom Panel (5), Side Panel (1)
+- **Instructions:**
+  - **Align and Connect:** Position the side panel (1) vertically and attach it to the bottom panel (5) as shown in the manual.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Side Panel (3)
+- **Instructions:**
+  - **Attach Second Side Panel:** Connect the second side panel (3) to the opposite side of the bottom panel (5) to form a U-shape.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 2, Back Panel (0)
+- **Instructions:**
+  - **Secure Back Panel:** Attach the back panel (0) to the rear of the structure, connecting it to both side panels (1 and 3).
+
+### Step 4:
+- **Parts Needed:** Subassembly from Step 3, Shelf (2)
+- **Instructions:**
+  - **Insert Shelf:** Place the shelf (2) inside the structure, aligning it with the pre-drilled holes on the side panels.
+
+### Step 5:
+- **Parts Needed:** Subassembly from Step 4, Top Panel (4)
+- **Instructions:**
+  - **Add Top Panel:** Position the top panel (4) on top of the structure, ensuring it fits securely over the side and back panels.
+
+### Step 6:
+- **Parts Needed:** Subassembly from Step 5, Bottom Panel (6), Top Panel (7)
+- **Instructions:**
+  - **Final Assembly:** Attach the additional bottom panel (6) and top panel (7) to reinforce the structure, completing the assembly.
+
+These steps follow the sequence and color-coded segmentation provided in the manual, ensuring a clear and organized assembly process.

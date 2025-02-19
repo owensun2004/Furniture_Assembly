@@ -1,0 +1,24 @@
+
+02:28PM on January 05, 2025
+=================================================================
+There are four pages of the setup manual overlayed with mask segmentations, indicating four total steps.
+
+### Step 1:
+- **Parts Needed:** Base Frame (0), Base Frame (1), Side Panel (2), Side Panel (3)
+- **Instructions:**
+  - **Assemble Base Frames and Side Panels:** Connect the base frames (0, 1) with the side panels (2, 3) to form the initial structure. The red and purple segments indicate where the frames and panels align.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Support Bar (4)
+- **Instructions:**
+  - **Attach Support Bar:** Secure the support bar (4) horizontally between the side panels to provide stability. The green segment shows the placement of the support bar.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 2, Support Bar (5)
+- **Instructions:**
+  - **Add Second Support Bar:** Place the second support bar (5) parallel to the first, enhancing the structure's stability. The purple segment indicates its position.
+
+### Step 4:
+- **Parts Needed:** Subassembly from Step 3, Tabletop (6)
+- **Instructions:**
+  - **Install Tabletop:** Position the tabletop (6) on top of the assembled frame. The blue segment shows where the tabletop should be placed, completing the assembly.

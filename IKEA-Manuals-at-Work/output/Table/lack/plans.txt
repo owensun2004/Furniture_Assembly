@@ -1,0 +1,14 @@
+
+02:50PM on January 05, 2025
+=================================================================
+There are two pages of the setup manual overlayed with mask segmentations, indicating two total steps.
+
+### Step 1:
+- **Parts Needed:** Seat (1), Legs (2, 3, 4, 5)
+- **Instructions:**
+  - **Attach Legs to Seat:** Position the seat (1) upside down. Attach each leg (2, 3, 4, 5) to the corners of the seat as shown in the manual. Ensure each leg is securely fastened.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Backrest (0), Support Bars (4, 5)
+- **Instructions:**
+  - **Attach Backrest and Support Bars:** With the seat and legs assembled, attach the backrest (0) to the rear of the seat. Secure the support bars (4, 5) between the backrest and the seat for added stability, as illustrated in the manual.

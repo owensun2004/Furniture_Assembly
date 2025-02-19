@@ -1,0 +1,39 @@
+
+[
+    {
+        "name": "side panel",
+        "number": [1]
+    },
+    {
+        "name": "side panel",
+        "number": [2]
+    },
+    {
+        "name": "side panel",
+        "number": [3]
+    },
+    {
+        "name": "top frame",
+        "number": [4]
+    },
+    {
+        "name": "shelf",
+        "number": [5]
+    },
+    {
+        "name": "shelf",
+        "number": [6]
+    },
+    {
+        "name": "shelf",
+        "number": [7]
+    },
+    {
+        "name": "support bar",
+        "number": [8]
+    },
+    {
+        "name": "support frame",
+        "number": [9]
+    }
+]

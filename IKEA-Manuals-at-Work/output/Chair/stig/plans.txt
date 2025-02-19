@@ -1,0 +1,51 @@
+
+02:45PM on January 05, 2025
+=================================================================
+There are nine pages of the setup manual, each with a colored, segmented furniture part. Thus, there are nine total steps.
+
+### Step 1:
+- **Parts Needed:** Leg Frame (3), Support Bar (5)
+- **Instructions:**
+  - **Attach Support Bar:** Connect the support bar (5) to the leg frame (3) as shown in the manual.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Leg Frame (4)
+- **Instructions:**
+  - **Join Leg Frames:** Attach the second leg frame (4) to the existing assembly from Step 1.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 2, Armrest (1)
+- **Instructions:**
+  - **Add Armrest:** Secure the armrest (1) to the top of the leg frame assembly.
+
+### Step 4:
+- **Parts Needed:** Subassembly from Step 3, Support Bar (6)
+- **Instructions:**
+  - **Install Support Bar:** Attach the support bar (6) across the leg frames for stability.
+
+### Step 5:
+- **Parts Needed:** Subassembly from Step 4, Armrest (2)
+- **Instructions:**
+  - **Attach Second Armrest:** Connect the second armrest (2) to the opposite side of the assembly.
+
+### Step 6:
+- **Parts Needed:** Subassembly from Step 5, Support Bar (5)
+- **Instructions:**
+  - **Reinforce Structure:** Add another support bar (5) to enhance the frame's stability.
+
+### Step 7:
+- **Parts Needed:** Subassembly from Step 6, Backrest (0)
+- **Instructions:**
+  - **Install Backrest:** Secure the backrest (0) to the top of the armrests.
+
+### Step 8:
+- **Parts Needed:** Subassembly from Step 7, Seat Frame (7)
+- **Instructions:**
+  - **Attach Seat Frame:** Connect the seat frame (7) to the lower part of the assembly.
+
+### Step 9:
+- **Parts Needed:** Subassembly from Step 8, Cushions (8, 9)
+- **Instructions:**
+  - **Add Cushions:** Place the cushions (8, 9) onto the seat frame for comfort.
+
+Follow these steps to assemble the furniture as depicted in the manual.

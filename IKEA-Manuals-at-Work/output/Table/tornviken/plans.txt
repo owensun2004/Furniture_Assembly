@@ -1,0 +1,54 @@
+
+02:56PM on January 05, 2025
+=================================================================
+There are ten pages of the setup manual overlayed with mask segmentations, indicating ten total steps.
+
+### Step 1:
+- **Parts Needed:** Table Top (0), Side Panel (1), Side Panel (2)
+- **Instructions:**
+  - **Attach Side Panels:** Position the side panels (1 and 2) vertically onto the table top (0) as shown in the manual.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Support Bars (4, 6, 9, 11)
+- **Instructions:**
+  - **Install Support Bars:** Secure the support bars (4, 6, 9, 11) to the structure from Step 1 to form a frame.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 2, Shelf (8)
+- **Instructions:**
+  - **Add Shelf:** Place the shelf (8) horizontally between the side panels.
+
+### Step 4:
+- **Parts Needed:** Subassembly from Step 3, Support Bar (5)
+- **Instructions:**
+  - **Attach Support Bar:** Connect the support bar (5) to the lower section of the structure.
+
+### Step 5:
+- **Parts Needed:** Subassembly from Step 4, Support Bar (6)
+- **Instructions:**
+  - **Install Upper Support Bar:** Secure the support bar (6) to the upper section of the structure.
+
+### Step 6:
+- **Parts Needed:** Subassembly from Step 5, Support Bar (9)
+- **Instructions:**
+  - **Attach Lower Support Bar:** Connect the support bar (9) to the lower back of the structure.
+
+### Step 7:
+- **Parts Needed:** Subassembly from Step 6, Support Bar (11)
+- **Instructions:**
+  - **Install Middle Support Bar:** Secure the support bar (11) to the middle section of the structure.
+
+### Step 8:
+- **Parts Needed:** Subassembly from Step 7, Drawer Back (7)
+- **Instructions:**
+  - **Attach Drawer Back:** Position the drawer back (7) into the structure.
+
+### Step 9:
+- **Parts Needed:** Subassembly from Step 8, Side Panel (3)
+- **Instructions:**
+  - **Install Final Side Panel:** Attach the side panel (3) to complete the frame.
+
+### Step 10:
+- **Parts Needed:** Subassembly from Step 9, Table Top (0)
+- **Instructions:**
+  - **Secure Table Top:** Place and secure the table top (0) onto the assembled frame to complete the furniture.

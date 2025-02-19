@@ -1,0 +1,14 @@
+
+02:43PM on January 05, 2025
+=================================================================
+There is one page of the setup manual overlayed with mask segmentations, indicating one step.
+
+### Step 1:
+- **Parts Needed:** Tabletop (0), Legs (1, 2, 3, 4)
+- **Instructions:**
+  - **Attach Legs to Tabletop:** 
+    - Position the tabletop (0) upside down.
+    - Attach each leg (1, 2, 3, 4) to the corresponding corners of the tabletop as shown in the segmented manual.
+    - Ensure each leg is securely connected to provide stability to the structure.
+
+This step involves aligning and securing all four legs to the tabletop, completing the basic assembly of the bench.

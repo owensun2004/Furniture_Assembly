@@ -1,0 +1,26 @@
+
+02:37PM on January 05, 2025
+=================================================================
+There are four pages of the setup manual overlayed with mask segmentations, indicating four total steps.
+
+### Step 1:
+- **Parts Needed:** Support Frame (6), Leg (2), Leg (5)
+- **Instructions:**
+  - **Attach Legs to Frame:** Connect the support frame (6) with two legs (2 and 5) as shown in the manual. The frame is highlighted in red, and the legs are in green and purple.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Leg (3)
+- **Instructions:**
+  - **Add Third Leg:** Attach the third leg (3) to the existing assembly. The new leg is highlighted in red.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 2, Leg (4)
+- **Instructions:**
+  - **Attach Fourth Leg:** Connect the fourth leg (4) to the structure. The leg is highlighted in green.
+
+### Step 4:
+- **Parts Needed:** Subassembly from Step 3, Backrest Frame (1)
+- **Instructions:**
+  - **Install Backrest Frame:** Attach the backrest frame (1) to the assembled legs and support frame. The backrest frame is highlighted in red.
+
+These steps follow the sequence shown in the manual, ensuring all parts are correctly assembled.

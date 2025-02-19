@@ -1,0 +1,47 @@
+
+[
+    {
+        "name": "top panel",
+        "number": [0]
+    },
+    {
+        "name": "bottom panel",
+        "number": [1]
+    },
+    {
+        "name": "side panel",
+        "number": [2]
+    },
+    {
+        "name": "side panel",
+        "number": [3]
+    },
+    {
+        "name": "back panel",
+        "number": [4]
+    },
+    {
+        "name": "shelf",
+        "number": [5]
+    },
+    {
+        "name": "frame",
+        "number": [6]
+    },
+    {
+        "name": "support bar",
+        "number": [7]
+    },
+    {
+        "name": "corner bracket",
+        "number": [8]
+    },
+    {
+        "name": "corner bracket",
+        "number": [9]
+    },
+    {
+        "name": "divider",
+        "number": [10]
+    }
+]

@@ -1,0 +1,29 @@
+
+02:59PM on January 05, 2025
+=================================================================
+There are five pages of the setup manual overlayed with mask segmentations. Thus, there are five total steps.
+
+### Step 1:
+- **Parts Needed:** Leg Bracket (2), Leg Bracket (3), Leg Frame (5)
+- **Instructions:**
+  - **Attach Brackets to Frame:** Connect the leg brackets (2) and (3) to the leg frame (5) as shown in the segmented manual.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Leg Frame (7)
+- **Instructions:**
+  - **Connect Leg Frames:** Attach the second leg frame (7) to the subassembly from Step 1.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 2, Frame (4)
+- **Instructions:**
+  - **Assemble Main Frame:** Connect the frame (4) to the assembled leg structure from Step 2.
+
+### Step 4:
+- **Parts Needed:** Subassembly from Step 3, Corner Bracket (1)
+- **Instructions:**
+  - **Secure with Corner Bracket:** Attach the corner bracket (1) to the main frame assembly to provide additional stability.
+
+### Step 5:
+- **Parts Needed:** Subassembly from Step 4, Table Top (0)
+- **Instructions:**
+  - **Attach Table Top:** Place and secure the table top (0) onto the completed frame structure from Step 4.

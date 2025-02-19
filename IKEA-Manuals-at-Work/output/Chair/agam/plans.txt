@@ -1,0 +1,36 @@
+
+02:28PM on January 05, 2025
+=================================================================
+There are six pages in the setup manual, indicating six steps for assembly.
+
+### Step 1:
+- **Parts Needed:** Seat (8), Backrest (9)
+- **Instructions:**
+  - **Attach Backrest to Seat:** Connect the backrest (9) to the seat (8) as shown in the manual. Ensure the alignment is correct.
+
+### Step 2:
+- **Parts Needed:** Leg (0), Support Bar (1)
+- **Instructions:**
+  - **Connect Support Bar to Leg:** Attach support bar (1) to leg (0) as depicted in the manual.
+
+### Step 3:
+- **Parts Needed:** Support Bar (2), Support Bar (3)
+- **Instructions:**
+  - **Join Support Bars:** Connect support bars (2) and (3) together as shown in the manual.
+
+### Step 4:
+- **Parts Needed:** Support Bar (4), Support Bar (5)
+- **Instructions:**
+  - **Assemble Support Bars:** Attach support bars (4) and (5) to form a cross structure.
+
+### Step 5:
+- **Parts Needed:** Subassembly from Step 4, Leg (6)
+- **Instructions:**
+  - **Attach Leg to Subassembly:** Connect leg (6) to the cross structure from Step 4.
+
+### Step 6:
+- **Parts Needed:** Subassembly from Step 5, Leg (7)
+- **Instructions:**
+  - **Complete Leg Assembly:** Attach leg (7) to the existing structure to complete the chair frame.
+
+Follow these steps to assemble the chair as per the manual instructions.

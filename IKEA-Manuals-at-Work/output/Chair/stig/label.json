@@ -1,0 +1,43 @@
+
+[
+    {
+        "name": "backrest",
+        "number": [0]
+    },
+    {
+        "name": "armrest",
+        "number": [1]
+    },
+    {
+        "name": "armrest",
+        "number": [2]
+    },
+    {
+        "name": "leg frame",
+        "number": [3]
+    },
+    {
+        "name": "leg frame",
+        "number": [4]
+    },
+    {
+        "name": "support bar",
+        "number": [5]
+    },
+    {
+        "name": "support bar",
+        "number": [6]
+    },
+    {
+        "name": "seat frame",
+        "number": [7]
+    },
+    {
+        "name": "cushion",
+        "number": [8]
+    },
+    {
+        "name": "cushion",
+        "number": [9]
+    }
+]

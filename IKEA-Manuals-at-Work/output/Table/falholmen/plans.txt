@@ -1,0 +1,14 @@
+
+02:47PM on January 05, 2025
+=================================================================
+There are two pages of the setup manual overlayed with mask segmentations, indicating two total steps.
+
+### Step 1:
+- **Parts Needed:** Seat Panel (3), Leg Frame (1), Backrest Frame (0)
+- **Instructions:**
+  - **Attach Leg Frames to Seat Panel:** Position the seat panel (3) on the ground. Attach the leg frame (1) and backrest frame (0) to the seat panel as shown in the manual. The leg frame (1) is marked in green, and the backrest frame (0) is marked in purple.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Support Frame (2)
+- **Instructions:**
+  - **Connect Support Frame:** Attach the support frame (2) to the assembled structure from Step 1. The support frame is marked in green and should be connected between the leg and backrest frames to provide stability.

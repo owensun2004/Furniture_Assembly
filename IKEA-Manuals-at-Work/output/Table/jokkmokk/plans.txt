@@ -1,0 +1,11 @@
+
+02:49PM on January 05, 2025
+=================================================================
+There is one page of the setup manual overlayed with mask segmentations. Thus, there is one total step.
+
+### Step 1:
+- **Parts Needed:** Tabletop (0), Leg (1), Leg (2), Leg (3), Leg (4)
+- **Instructions:**
+  - **Attach Legs to Tabletop:** 
+    - Position each leg (1, 2, 3, 4) at the designated corners of the tabletop (0) as shown in the segmented manual.
+    - Ensure each leg is aligned correctly with the corresponding colored segment on the tabletop for stability.

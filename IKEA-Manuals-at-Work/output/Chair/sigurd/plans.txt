@@ -1,0 +1,31 @@
+
+02:41PM on January 05, 2025
+=================================================================
+There are five pages of the setup manual, each with a big, bold black number indicating the step. Thus, there are five total steps.
+
+### Step 1:
+- **Parts Needed:** Cross Bar (0), Long Support (1), Long Support (2)
+- **Instructions:**
+  - **Assemble Base Structure:** Connect the cross bar (0) with the long supports (1) and (2) as shown in the manual. The parts are color-coded in red, green, and purple.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Short Support (3)
+- **Instructions:**
+  - **Attach Short Support:** Connect the short support (3) to the subassembly from Step 1. This part is highlighted in green.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 2, Legs (4), (5)
+- **Instructions:**
+  - **Add Legs:** Attach the legs (4) and (5) to the structure from Step 2. The legs are shown in red.
+
+### Step 4:
+- **Parts Needed:** Subassembly from Step 3, Seat (6)
+- **Instructions:**
+  - **Install Seat:** Place the seat (6) onto the assembled frame from Step 3. The seat is highlighted in green.
+
+### Step 5:
+- **Parts Needed:** Subassembly from Step 4, Backrest (7)
+- **Instructions:**
+  - **Attach Backrest:** Secure the backrest (7) to the structure from Step 4. The backrest is shown in green.
+
+Follow these steps to complete the assembly of the chair.

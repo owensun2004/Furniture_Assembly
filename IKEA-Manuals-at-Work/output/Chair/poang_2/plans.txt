@@ -1,0 +1,36 @@
+
+02:36PM on January 05, 2025
+=================================================================
+There are six pages of the setup manual overlayed with mask segmentations, indicating six total steps.
+
+### Step 1:
+- **Parts Needed:** Curved Support (9), Curved Support (10)
+- **Instructions:**
+  - **Attach Curved Supports:** Connect the curved supports (9) and (10) to the base frame as shown in the red and green segments.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Backrest Frame (0)
+- **Instructions:**
+  - **Add Backrest Frame:** Attach the backrest frame (0) to the assembled curved supports from Step 1, as indicated by the green segment.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 2, Seat Support (5), Seat Support (6)
+- **Instructions:**
+  - **Install Seat Supports:** Connect the seat supports (5) and (6) to the existing structure, aligning with the red and green segments.
+
+### Step 4:
+- **Parts Needed:** Subassembly from Step 3, Armrest (1), Armrest (2)
+- **Instructions:**
+  - **Attach Armrests:** Secure the armrests (1) and (2) to the top of the structure, following the red and green segments.
+
+### Step 5:
+- **Parts Needed:** Subassembly from Step 4, Leg (3), Leg (4)
+- **Instructions:**
+  - **Add Legs:** Attach legs (3) and (4) to the bottom of the structure, as shown in the red and purple segments.
+
+### Step 6:
+- **Parts Needed:** Subassembly from Step 5, Leg (7), Leg (8)
+- **Instructions:**
+  - **Complete with Remaining Legs:** Secure the remaining legs (7) and (8) to the structure, finalizing the assembly as indicated by the red and green segments.
+
+Follow these steps to assemble the furniture piece according to the manual.

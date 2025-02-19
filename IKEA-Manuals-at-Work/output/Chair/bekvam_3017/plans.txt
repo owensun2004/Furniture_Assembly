@@ -1,0 +1,31 @@
+
+02:32PM on January 05, 2025
+=================================================================
+There are five pages of the setup manual overlayed with mask segmentations, indicating five total steps.
+
+### Step 1:
+- **Parts Needed:** Frame (0), Support Bar (2), Support Bar (3)
+- **Instructions:**
+  - **Assemble Frame and Support Bars:** Connect the frame (0) with support bars (2) and (3) as shown in the segmented manual.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Support Bar (5), Support Bar (6)
+- **Instructions:**
+  - **Attach Additional Support Bars:** Add support bars (5) and (6) to the existing structure from Step 1.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 2, Seat (4)
+- **Instructions:**
+  - **Install Seat:** Place the seat (4) onto the structure from Step 2, ensuring it fits securely.
+
+### Step 4:
+- **Parts Needed:** Subassembly from Step 3, Frame (1)
+- **Instructions:**
+  - **Connect Second Frame:** Attach the second frame (1) to the existing assembly, aligning it with the seat and support bars.
+
+### Step 5:
+- **Parts Needed:** Subassembly from Step 4, Backrest (7)
+- **Instructions:**
+  - **Secure Backrest:** Attach the backrest (7) to the top of the structure, completing the assembly.
+
+Follow these steps to assemble the furniture as depicted in the manual.

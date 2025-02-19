@@ -1,0 +1,34 @@
+
+02:51PM on January 05, 2025
+=================================================================
+There are six pages of the setup manual overlayed with mask segmentations. Thus, there are six total steps.
+
+### Step 1:
+- **Parts Needed:** Support Bars (4, 8, 9, 11)
+- **Instructions:**
+  - **Assemble Frame:** Connect support bars (4, 8, 9, 11) to form the base frame as shown in the segmented manual.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Side Panels (2, 10)
+- **Instructions:**
+  - **Attach Side Panels:** Secure side panels (2, 10) to the frame from Step 1.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 2, Seat (1)
+- **Instructions:**
+  - **Add Seat:** Place and secure the seat (1) onto the assembled structure from Step 2.
+
+### Step 4:
+- **Parts Needed:** Subassembly from Step 3, Legs (0, 5, 6, 7)
+- **Instructions:**
+  - **Attach Legs:** Connect legs (0, 5, 6, 7) to the corners of the frame from Step 3.
+
+### Step 5:
+- **Parts Needed:** Subassembly from Step 4, Seat (3)
+- **Instructions:**
+  - **Install Lower Shelf:** Secure the second seat (3) as a lower shelf to the structure from Step 4.
+
+### Step 6:
+- **Parts Needed:** Completed Assembly
+- **Instructions:**
+  - **Finalize Assembly:** Ensure all parts are securely fastened and the structure is stable. Flip the assembly upright to complete the setup.

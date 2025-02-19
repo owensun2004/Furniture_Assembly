@@ -1,0 +1,19 @@
+
+02:49PM on January 05, 2025
+=================================================================
+There are three pages of the setup manual overlayed with mask segmentations, indicating three total steps.
+
+### Step 1:
+- **Parts Needed:** Curved Legs (0, 1, 2, 4), Round Top (5)
+- **Instructions:**
+  - **Attach Legs to Top:** Connect the four curved legs (0, 1, 2, 4) to the round top (5) as shown in the manual. Each leg should be aligned with the designated positions on the underside of the top.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Round Frame (3)
+- **Instructions:**
+  - **Secure Frame to Legs:** Attach the round frame (3) to the top of the curved legs. Ensure the frame is evenly aligned and secured to provide stability to the structure.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 2
+- **Instructions:**
+  - **Place Round Top:** Position the round top (5) onto the assembled frame and legs. Ensure it is centered and securely placed to complete the table assembly.

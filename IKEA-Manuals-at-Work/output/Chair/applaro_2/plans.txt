@@ -1,0 +1,21 @@
+
+02:30PM on January 05, 2025
+=================================================================
+There are three pages of the setup manual, each with colored, segmented furniture parts. Thus, there are three total steps.
+
+### Step 1:
+- **Parts Needed:** Seat (2), Legs (4, 5, 6)
+- **Instructions:**
+  - **Attach Legs to Seat:** Connect the legs (4, 5, 6) to the seat (2) as shown in the red, green, yellow, and blue segments in the manual.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Armrest (1)
+- **Instructions:**
+  - **Attach Armrest:** Secure the armrest (1) to the subassembly from Step 1, aligning it with the red and green segments in the manual.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 2, Backrest (0)
+- **Instructions:**
+  - **Attach Backrest:** Connect the backrest (0) to the subassembly from Step 2, following the red and green segments in the manual.
+
+These steps will guide you through assembling the furniture as depicted in the manual.

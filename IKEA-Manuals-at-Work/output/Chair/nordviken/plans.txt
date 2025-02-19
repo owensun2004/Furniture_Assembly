@@ -1,0 +1,24 @@
+
+02:32PM on January 05, 2025
+=================================================================
+There are four pages of the setup manual, each with colored, segmented furniture parts. Thus, there are four total steps.
+
+### Step 1:
+- **Parts Needed:** Support Bar (1)
+- **Instructions:**
+  - **Attach Support Bar:** Connect the support bar (1) to the base frame as shown in the manual. The support bar is highlighted in red.
+
+### Step 2:
+- **Parts Needed:** Support Bar (2), Support Bar (4)
+- **Instructions:**
+  - **Add Support Bars:** Attach the support bars (2) and (4) to the existing frame. The bars are highlighted in red and purple.
+
+### Step 3:
+- **Parts Needed:** Support Bar (5)
+- **Instructions:**
+  - **Install Support Bar:** Secure the support bar (5) to the frame. The bar is highlighted in red.
+
+### Step 4:
+- **Parts Needed:** Front Leg Frame (0), Back Leg Frame (6), Seat (3)
+- **Instructions:**
+  - **Assemble Frame and Seat:** Attach the front leg frame (0) and back leg frame (6) to the seat (3). The entire assembly is highlighted in red, and the seat is highlighted in green.

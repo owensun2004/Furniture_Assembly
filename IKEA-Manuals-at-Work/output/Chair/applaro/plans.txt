@@ -1,0 +1,19 @@
+
+02:29PM on January 05, 2025
+=================================================================
+There are three pages of the setup manual overlayed with mask segmentations. Thus, there are three total steps.
+
+### Step 1:
+- **Parts Needed:** Frame (3), Leg (0), Leg (4), Backrest (2)
+- **Instructions:**
+  - **Assemble Base and Backrest:** Connect the frame (3) with legs (0) and (4). Attach the backrest (2) to the frame as shown in the manual.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Frame (5)
+- **Instructions:**
+  - **Attach Upper Frame:** Secure the upper frame (5) to the subassembly from Step 1, ensuring alignment as indicated in the manual.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 2, Seat (1)
+- **Instructions:**
+  - **Install Seat:** Place the seat (1) onto the assembled structure from Step 2, following the positioning shown in the manual.

@@ -1,0 +1,19 @@
+
+02:48PM on January 05, 2025
+=================================================================
+There are three pages of the setup manual, each with a big, bold black number indicating the step. Thus, there are three total steps.
+
+### Step 1:
+- **Parts Needed:** Leg (1), Support Bar (3), Support Bar (4)
+- **Instructions:**
+  - **Attach Support Bars to Leg:** Connect the support bars (3) and (4) to the leg (1) as shown in the manual. The green and purple segments indicate where each support bar should be positioned.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Leg (2), Support Bar (5)
+- **Instructions:**
+  - **Add Second Leg and Support Bar:** Attach the second leg (2) and the third support bar (5) to the existing assembly from Step 1. Ensure the alignment matches the manual's red segment.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 2, Tabletop (0)
+- **Instructions:**
+  - **Secure Tabletop:** Place the tabletop (0) onto the assembled legs and support bars. Align it as shown in the manual's green segment to complete the assembly.

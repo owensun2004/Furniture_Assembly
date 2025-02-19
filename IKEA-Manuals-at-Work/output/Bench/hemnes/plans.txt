@@ -1,0 +1,31 @@
+
+02:24PM on January 05, 2025
+=================================================================
+There are five pages of the setup manual overlayed with mask segmentations, indicating five total steps.
+
+### Step 1:
+- **Parts Needed:** Support Bars (4, 5), Legs (1, 2, 6, 7)
+- **Instructions:**
+  - **Assemble Base Frame:** Connect the support bars (4, 5) with the legs (1, 2, 6, 7) to form the base frame as shown in the manual.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Side Panels (8, 9)
+- **Instructions:**
+  - **Attach Side Panels:** Secure the side panels (8, 9) vertically to the base frame from Step 1.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 2, Shelf (3)
+- **Instructions:**
+  - **Insert Shelf:** Place the shelf (3) horizontally between the side panels, ensuring it is aligned and secured.
+
+### Step 4:
+- **Parts Needed:** Subassembly from Step 3, Side Panels (10, 11)
+- **Instructions:**
+  - **Complete Frame:** Attach the remaining side panels (10, 11) to the structure, completing the frame.
+
+### Step 5:
+- **Parts Needed:** Subassembly from Step 4, Table Top (0)
+- **Instructions:**
+  - **Secure Table Top:** Flip the structure and attach the table top (0) to the top of the frame, ensuring it is firmly secured.
+
+This plan follows the setup manual's instructions, focusing on the colored segmented parts for each step.

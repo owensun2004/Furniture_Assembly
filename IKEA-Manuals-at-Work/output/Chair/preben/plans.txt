@@ -1,0 +1,14 @@
+
+02:37PM on January 05, 2025
+=================================================================
+There are two pages of the setup manual overlayed with mask segmentations, indicating two total steps.
+
+### Step 1:
+- **Parts Needed:** Backrest (0), Seat Frame (1)
+- **Instructions:**
+  - **Align and Attach:** Position the seat frame (1) on top of the backrest (0) as shown in the manual. Ensure the frame is securely aligned with the backrest.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Legs (2, 3), Support Bars (4, 5)
+- **Instructions:**
+  - **Attach Legs and Support Bars:** Connect the legs (2, 3) to the corners of the seat frame. Secure the support bars (4, 5) between the legs to provide stability, following the color-coded guidance in the manual.

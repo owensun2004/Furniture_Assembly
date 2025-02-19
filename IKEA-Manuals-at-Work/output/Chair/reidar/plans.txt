@@ -1,0 +1,14 @@
+
+02:38PM on January 05, 2025
+=================================================================
+There are two pages of the setup manual overlayed with mask segmentations, indicating two total steps.
+
+### Step 1:
+- **Parts Needed:** Seat (2), Backrest (5)
+- **Instructions:**
+  - **Align Seat and Backrest:** Connect the seat (2) with the backrest (5) as shown in the manual. The seat is highlighted in red, and the backrest is in green.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Support Bars (0, 1), Legs (3, 4)
+- **Instructions:**
+  - **Attach Support Bars and Legs:** Connect the support bars (0, 1) and legs (3, 4) to the subassembly from Step 1. The support bars and legs are highlighted in different colors for clarity.

@@ -1,0 +1,39 @@
+PREVIOUS INPUT:
+You are a robot assistant responsible for assembling IKEA furnitures.
+
+Your inputs include {A}: a rbg image of the scene consisting of furniture parts labeled with numbers, {B}: a JSON file that describes the image's objects and labels, {C}: first few pages of a set-up manual for the furniture, and {D}: 3D furniture objects rendered in 2D rgb images that are related to the manual.
+
+Note that you will only be constructing one piece of furniture that is described on the manual. There may be extra materials and furniture parts in the scene that are not needed to construct the furniture. Only select furniture parts that are necessary and required according to the manual.
+
+If you cannot find materials or furniture parts to build a furniture, try your best to improvise. If you think it's impossible to improvise, then it is completely fine to tell us that the required materials or furniture parts are missing.
+
+You can ignore nails and other tools in the manual, only focus on the furniture parts that exists in {A}: the rbg scene image and {D}: the rendered images.
+
+First, you are ONLY responsible for identifying the relevant materials that will be required to assemble the furniture in the image. Output a table of selected materials, with their labeled numbers, and a brief explanation of why they are selected and how are they related to items on the set up manual. You should only select materials relevant to the inputted 3D objects (with blue backgrounds).
+
+PREVIOUS OUTPUT:
+Here's a table of selected materials required for assembly based on the input images and manual:
+
+| Labeled Number | Name                | Explanation                                                                 |
+|----------------|---------------------|-----------------------------------------------------------------------------|
+| 1              | Backrest Frame      | Matches the backrest frame in the 3D objects and manual, essential for support.     |
+| 2              | Side Leg Frame      | Required part for the chair's legs as shown in both the manual and 3D renderings.  |
+| 3              | Support Beam        | One of the beams needed for structural support, aligning with 3D object details.     |
+| 4              | Support Beam        | Similar to above, required for overall stability.                                      |
+| 5              | Seat Cushion        | Essential for sitting comfort, represented in the manual.                         |
+| 7              | Side Leg Frame      | Another leg frame required as per the 3D images and manual.                           |
+
+These parts align with the parts detailed in the manual and the 3D renderings, excluding the extra items not depicted in the necessary assembly instructions.
+
+
+NEW INPUT:
+Now you will be responsible for creating a detailed step by step plan for assembling the furniture using the table of selected materials you outputted above. 
+
+For your inputs, your will receive a set of images, which represent the next few pages of the set up manual described in {C}, containing the set up instructions of the furniture. You can see that in each page, the furniture is segmented with different colors. This is to better aid your understanding of which furniture parts are involved in each step of the furniture assembly.
+
+Note that for your convenience, you will also receive the same input of {A}: a rbg image of the scene consisting of furniture parts labeled with numbers, and {B}: a JSON file that describes the image's objects and labels.
+
+Your new task is to carefully describe every step according to the manual. Each colored segmented furniture part should correspond to one step, for example, if there are N images of the manual and M colored segmented furniture parts in total, you should have M total steps. Once again, your planned steps should only describe what and how segmented furniture parts are involved, don't worry about nails and other minor tools for now. Your focus should only be on the colored segmented furniture parts. Be as specific as possible in your description.
+
+
+NEW OUTPUT:

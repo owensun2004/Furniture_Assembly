@@ -1,0 +1,19 @@
+
+[
+    {
+        "name": "tabletop",
+        "number": [0]
+    },
+    {
+        "name": "leg",
+        "number": [1]
+    },
+    {
+        "name": "support beam",
+        "number": [2]
+    },
+    {
+        "name": "leg",
+        "number": [3]
+    }
+]

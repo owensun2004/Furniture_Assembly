@@ -1,0 +1,19 @@
+
+02:42PM on January 05, 2025
+=================================================================
+There are three pages of the setup manual overlayed with mask segmentations. Thus, there are three total steps.
+
+### Step 1:
+- **Parts Needed:** Leg Frame (2), Armrest Frame (4)
+- **Instructions:**
+  - **Attach Armrest Frame:** Connect the armrest frame (4) to the leg frame (2) as shown in the manual. The armrest frame is highlighted in purple and red, while the leg frame is in green.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Seat Support (1)
+- **Instructions:**
+  - **Add Seat Support:** Attach the seat support (1) to the subassembly from Step 1. The seat support is highlighted in green, and the existing assembly is in red.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 2, Seat Cushion (3)
+- **Instructions:**
+  - **Place Seat Cushion:** Position the seat cushion (3) onto the seat support from Step 2. The seat cushion is highlighted in green, and the rest of the assembly is in red.

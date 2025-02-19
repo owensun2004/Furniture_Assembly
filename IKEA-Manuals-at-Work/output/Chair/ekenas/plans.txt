@@ -1,0 +1,14 @@
+
+02:35PM on January 05, 2025
+=================================================================
+There is one page of the setup manual overlayed with mask segmentations, indicating one step.
+
+### Step 1:
+- **Parts Needed:** 
+  - Dowels (0, 1, 2, 3)
+  - Seat Frame (4)
+- **Instructions:**
+  - **Attach Dowels to Seat Frame:** 
+    - Insert dowels (0, 1, 2, 3) into the designated holes on the seat frame (4) as shown in the manual.
+    - Ensure each dowel is securely fitted to provide stability to the structure.
+    - The dowels are color-coded in the manual to indicate their positions on the seat frame.

@@ -1,0 +1,29 @@
+
+02:41PM on January 05, 2025
+=================================================================
+There are five pages in the setup manual, indicating five steps for assembly.
+
+### Step 1:
+- **Parts Needed:** Support Bars (9, 10, 11, 12, 13, 14)
+- **Instructions:**
+  - **Align and Connect Support Bars:** Arrange the support bars in pairs as shown, ensuring they are aligned properly. Connect them to form the base structure.
+
+### Step 2:
+- **Parts Needed:** Connectors (15, 16, 17, 18)
+- **Instructions:**
+  - **Attach Connectors:** Insert the connectors into the ends of the support bars from Step 1. Ensure they are securely fastened to provide stability.
+
+### Step 3:
+- **Parts Needed:** Side Panels (2, 3), Back Panel (1)
+- **Instructions:**
+  - **Position Panels:** Attach the side panels and back panel to the assembled frame from Step 2. Ensure they are aligned and secured properly.
+
+### Step 4:
+- **Parts Needed:** Bottom Panel (4), Legs (5, 6, 7, 8)
+- **Instructions:**
+  - **Attach Bottom Panel and Legs:** Secure the bottom panel to the frame. Attach the legs to each corner, ensuring they are stable and even.
+
+### Step 5:
+- **Parts Needed:** Seat Panel (0)
+- **Instructions:**
+  - **Place Seat Panel:** Position the seat panel on top of the assembled structure. Ensure it is aligned and securely fastened to complete the assembly.

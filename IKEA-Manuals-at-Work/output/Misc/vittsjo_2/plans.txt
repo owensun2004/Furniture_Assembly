@@ -1,0 +1,19 @@
+
+02:39PM on January 05, 2025
+=================================================================
+There are three pages of the setup manual overlayed with mask segmentations. Thus, there are three total steps.
+
+### Step 1:
+- **Parts Needed:** Frame (0), Legs (1, 2, 5, 6)
+- **Instructions:**
+  - **Attach Legs to Frame:** Connect the four legs (1, 2, 5, 6) to the frame (0) as shown in the manual. Each leg is color-coded for easy identification.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Support Bar (4)
+- **Instructions:**
+  - **Install Support Bar:** Attach the support bar (4) between the legs to provide additional stability to the structure.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 2, Seat (Tabletop) (3)
+- **Instructions:**
+  - **Secure Tabletop:** Place the seat (tabletop) (3) onto the frame and secure it in place as indicated in the manual.

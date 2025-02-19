@@ -1,0 +1,124 @@
+OLDER INPUT:
+You are a robot assistant responsible for assembling IKEA furnitures.
+
+Your inputs include A: a rbg image of the scene consisting of furniture parts labeled with numbers, B: a JSON file that describes the image's objects and labels, C: first few pages of a set-up manual for the furniture, and D: 3D furniture objects rendered in 2D rgb images that are related to the manual.
+
+Note that you will only be constructing one piece of furniture that is described on the manual. There may be extra materials and furniture parts in the scene that are not needed to construct the furniture. Only select furniture parts that are necessary and required according to the manual.
+
+If you cannot find materials or furniture parts to build a furniture, try your best to improvise. If you think it's impossible to improvise, then it is completely fine to tell us that the required materials or furniture parts are missing.
+
+You can ignore nails and other tools in the manual, only focus on the furniture parts that exists in A: the rbg scene image and D: the rendered images.
+
+First, you are ONLY responsible for identifying the relevant materials that will be required to assemble the furniture in the image. Output a table of selected materials, with their labeled numbers, and a brief explanation of why they are selected and how are they related to items on the set up manual. You should only select materials relevant to the inputted 3D objects (with blue backgrounds).
+
+OLDER OUTPUT:
+Here's a table of selected materials required for assembly based on the input images and manual:
+
+| Labeled Number | Name                | Explanation                                                                 |
+|----------------|---------------------|-----------------------------------------------------------------------------|
+| 1              | Backrest Frame      | Matches the backrest frame in the 3D objects and manual, essential for support.     |
+| 2              | Side Leg Frame      | Required part for the chair's legs as shown in both the manual and 3D renderings.  |
+| 3              | Support Beam        | One of the beams needed for structural support, aligning with 3D object details.     |
+| 4              | Support Beam        | Similar to above, required for overall stability.                                      |
+| 5              | Seat Cushion        | Essential for sitting comfort, represented in the manual.                         |
+| 7              | Side Leg Frame      | Another leg frame required as per the 3D images and manual.                           |
+
+These parts align with the parts detailed in the manual and the 3D renderings, excluding the extra items not depicted in the necessary assembly instructions.
+
+
+PREVIOUS INPUT:
+Now you will be responsible for creating a detailed step by step plan for assembling the furniture using the furniture parts table you outputted above. Besides the same A: a rbg image of the scene consisting of furniture parts labeled with numbers, B: a JSON file that describes the image's objects and labels, your new input will be a set of images, which represent the furniture part segmentations of the manual. Carefully describe every step according to the segmentations. Be as specific as possible.
+
+
+PREVIOUS OUTPUT:
+
+### Step 1: Assemble the Backrest and Seat Frame
+
+- **Parts Needed:** Backrest Frame (1), Seat Cushion (5)
+- **Instructions:** Position the backrest frame (1) upright. Attach the seat cushion (5) to the lower section of the backrest frame. Ensure the seat cushion is securely fastened.
+
+### Step 2: Attach the Side Leg Frame
+
+- **Parts Needed:** Side Leg Frame (2)
+- **Instructions:** Align the side leg frame (2) with the edge of the seat cushion (5) where holes are pre-drilled. Use appropriate connectors to secure the side leg to the backrest and seat.
+
+### Step 3: Install the Support Beams
+
+- **Parts Needed:** Support Beam (3), Support Beam (4)
+- **Instructions:** Connect support beam (3) horizontally between the side leg frame (2) and the backrest. Repeat with support beam (4) on the other side for stability.
+
+### Step 4: Add the Opposite Side Leg Frame
+
+- **Parts Needed:** Side Leg Frame (7)
+- **Instructions:** Similar to Step 2, fix the side leg frame (7) to the opposing edge of the seat cushion (5). Ensure it aligns with the backrest for balance.
+
+### Step 5: Secure All Connections
+
+- **Instructions:** Double-check all connections and screws/bolts to ensure they are tight and secure. This will provide necessary stability and safety.
+
+
+NEW INPUT:
+Now, your new task is to convert your text output from PREVIOUS OUTPUT into a tree. 
+
+Each node will have a place to store its name, children nodes, and a string of text.
+
+Each end node (leaf) of the tree represents the atom furniture part, you can think of it as a furniture part that cannot be decomposed further (hint: the end nodes should only include contents in the furniture parts table you outputted in OLDER OUTPUT). As you move up the tree, each parent node will represent the two or more child nodes combined. Finally, the root node will be the completed furniture.
+
+You should clearly describe how every node is connected.
+
+Your output will be a tree written in python. For starters, I have defined the Tree Class for you:
+
+class TreeNode:
+    def __init__(self, name, image=None, text=""):
+        self.name = name                # Node's name
+        self.text = text                # Place to store additional text
+        self.children = []              # List to store child nodes
+
+    def add_child(self, child_node):
+        self.children.append(child_node)
+
+    def __repr__(self, level=0):
+        # This will help print the tree with name and text details for each node
+        ret = "\t" * level + f"Node(name={self.name}, text={self.text})\n"
+        for child in self.children:
+            ret += child.__repr__(level + 1)
+        return ret
+
+Here are some examples:
+EXAMPLE PREVIOUS OUTPUT 1:
+Here’s a step-by-step assembly plan for the furniture using the provided parts:
+
+### Step 1: Assemble Backrest and Seat
+- **Parts Needed:** Backrest Frame (1), Seat Cushion (5)
+- **Instructions:**
+  - Place the Backrest Frame (1) and Seat Cushion (5) adjacent as shown in their respective colors (red and green).
+  - Align the edges and use the screws provided (120925, 150490) to secure them together.
+  - Ensure the backrest is upright and securely attached to the seat.
+
+### Step 2: Attach Side Leg Frame
+- **Parts Needed:** Side Leg Frame (2, 7)
+- **Instructions:**
+  - Position the Side Leg Frame (2) on one side of the assembled backrest and seat structure.
+  - Insert screws (146654, 146655) through the holes as indicated, securing the frame.
+  - Repeat this process for the Side Leg Frame (7) on the opposite side.
+
+### Step 3: Connect Support Beams
+- **Parts Needed:** Support Beams (3, 4)
+- **Instructions:**
+  - Attach Support Beam (3) to the inside of the Side Leg Frame, as depicted.
+  - Use screws (122606, 122604) to secure the beam, ensuring it is stable and can bear weight.
+  - Repeat the process for Support Beam (4).
+
+  
+Check the entire assembly for any loose parts and re-tighten as necessary. The chair should now be fully assembled and ready for use.
+
+EXAMPLE NEW OUTPUT 1:
+root = TreeNode(name="Assembled furniture", text="The chair should now be fully assembled and ready for use.")
+child1 = TreeNode(name="Child 1", image=image1, text="First child node")
+child2 = TreeNode(name="Child 2", image=image2, text="Second child node")
+root.add_child(child1)
+root.add_child(child2)
+
+
+
+NEW OUTPUT:

@@ -1,0 +1,21 @@
+
+02:22PM on January 05, 2025
+=================================================================
+There are three pages of the setup manual overlayed with mask segmentations, indicating three total steps.
+
+### Step 1:
+- **Parts Needed:** Backrest (3), Side Support (0), Side Support (2), Leg Frame (4)
+- **Instructions:**
+  - **Assemble Backrest and Supports:** Attach the backrest (3) to the side supports (0 and 2) and secure them to the leg frame (4) as shown in the manual. The backrest is highlighted in purple, the side supports in green and yellow, and the leg frame in red.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Leg Frame (5)
+- **Instructions:**
+  - **Attach Second Leg Frame:** Connect the second leg frame (5) to the existing structure from Step 1. The new leg frame is highlighted in green, and the existing structure is in red.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 2, Seat (1)
+- **Instructions:**
+  - **Install Seat:** Secure the seat (1) onto the assembled frame from Step 2. The seat is highlighted in green, and the frame is in red.
+
+Follow these steps to complete the assembly of the furniture.

@@ -1,0 +1,36 @@
+
+02:52PM on January 05, 2025
+=================================================================
+There are six pages of the setup manual, each with a bold black number indicating the step. Thus, there are six total steps.
+
+### Step 1:
+- **Parts Needed:** Backrest Frame (0), Support Bar (3), Support Bar (4)
+- **Instructions:**
+  - **Assemble Frame and Bars:** Attach the support bars (3) and (4) to the backrest frame (0) as shown in the manual. The frame is highlighted in red, and the bars are in green and purple.
+
+### Step 2:
+- **Parts Needed:** Support Bar (5), Seat (2)
+- **Instructions:**
+  - **Attach Seat to Bar:** Connect the seat (2) to the support bar (5). The bar is highlighted in green, and the seat slats are in various colors.
+
+### Step 3:
+- **Parts Needed:** Support Bar (5), Support Bar (11)
+- **Instructions:**
+  - **Secure Additional Bar:** Attach the support bar (11) to the assembly from Step 2. The bar is highlighted in red.
+
+### Step 4:
+- **Parts Needed:** Backrest Frame (6), Support Bar (11)
+- **Instructions:**
+  - **Connect Frame and Bar:** Attach the backrest frame (6) to the support bar (11) and the assembly from Step 3. The frame is in red, and the bar is in green.
+
+### Step 5:
+- **Parts Needed:** Seat (2)
+- **Instructions:**
+  - **Position Seat:** Place the seat (2) onto the assembled structure. The seat is highlighted in red.
+
+### Step 6:
+- **Parts Needed:** Support Bar (5), Backrest Frame (0)
+- **Instructions:**
+  - **Finalize Assembly:** Secure the support bar (5) to the top of the structure, connecting it to the backrest frame (0). The bar is in green, and the frame is in red.
+
+Follow these steps to complete the assembly of the furniture as described in the manual.

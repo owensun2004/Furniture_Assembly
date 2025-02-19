@@ -1,0 +1,26 @@
+
+02:50PM on January 05, 2025
+=================================================================
+There are four pages of the setup manual overlayed with mask segmentations, indicating four total steps.
+
+### Step 1:
+- **Parts Needed:** Side Frame (1), Support Bar (2), Support Bar (3)
+- **Instructions:**
+  - **Assemble Frame and Support Bars:** Connect the side frame (1) with support bars (2) and (3) as shown in the segmented manual. The side frame is highlighted in red, while the support bars are in green and purple.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Side Frame (4)
+- **Instructions:**
+  - **Attach Second Side Frame:** Connect the second side frame (4) to the subassembly from Step 1. The new side frame is highlighted in green.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 2, Backrest (0)
+- **Instructions:**
+  - **Install Backrest:** Attach the backrest (0) to the assembled frame from Step 2. The backrest is highlighted in green.
+
+### Step 4:
+- **Parts Needed:** Subassembly from Step 3, Seat (5)
+- **Instructions:**
+  - **Secure Seat:** Attach the seat (5) to the completed frame and backrest structure from Step 3. The seat is highlighted in green.
+
+Follow these steps to complete the assembly of the furniture as per the manual instructions.

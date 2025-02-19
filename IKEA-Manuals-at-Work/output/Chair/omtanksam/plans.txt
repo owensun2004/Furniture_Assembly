@@ -1,0 +1,18 @@
+
+02:34PM on January 05, 2025
+=================================================================
+There is one page of the setup manual overlayed with mask segmentations, indicating one step.
+
+### Step 1:
+- **Parts Needed:** 
+  - Backrest (0)
+  - Leg (1)
+  - Leg (2)
+  - Leg (3)
+  - Leg (4)
+
+- **Instructions:**
+  - **Attach Legs to Backrest:** 
+    - Position the backrest (0) upright.
+    - Attach each leg (1, 2, 3, 4) to the corresponding slots on the underside of the backrest as shown in the manual.
+    - Ensure each leg is securely fitted into its designated position, matching the colors in the manual for guidance.

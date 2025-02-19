@@ -1,0 +1,16 @@
+
+02:43PM on January 05, 2025
+=================================================================
+There are two pages of the setup manual overlayed with mask segmentations, indicating two total steps.
+
+### Step 1:
+- **Parts Needed:** Back Leg Frame (6), Side Supports (0, 1, 2, 3), Front Leg Frame (5)
+- **Instructions:**
+  - **Assemble Frame Structure:** Connect the back leg frame (6) and front leg frame (5) using the side supports (0, 1, 2, 3). Align each side support between the frames as shown in the manual, ensuring they are securely attached.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Seat (4)
+- **Instructions:**
+  - **Attach Seat:** Secure the seat (4) onto the assembled frame structure from Step 1. Ensure the seat is properly aligned and fastened to the frame for stability.
+
+These steps follow the manual's instructions, focusing on the colored segmented parts for clarity.

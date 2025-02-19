@@ -1,0 +1,36 @@
+
+02:43PM on January 05, 2025
+=================================================================
+There are six pages of the setup manual, each with a big, bold black number indicating the step. Thus, there are six total steps.
+
+### Step 1:
+- **Parts Needed:** Side Panels (0, 1, 2, 3), Legs (4, 5, 6, 7)
+- **Instructions:**
+  - **Assemble Base:** Connect the side panels (0, 1, 2, 3) to the legs (4, 5, 6, 7) to form the base structure as shown in the red segmentation.
+
+### Step 2:
+- **Parts Needed:** Support Bars (8, 9, 10, 11)
+- **Instructions:**
+  - **Add First Shelf:** Attach the support bars (8, 9, 10, 11) to the top of the base structure to create the first shelf, as indicated in green.
+
+### Step 3:
+- **Parts Needed:** Support Bars (12, 13, 14), Back Panel (15)
+- **Instructions:**
+  - **Build Second Layer:** Connect additional support bars (12, 13, 14) and the back panel (15) to the existing structure to form the second layer, as shown in the red segmentation.
+
+### Step 4:
+- **Parts Needed:** Support Bars (8, 9, 10, 11)
+- **Instructions:**
+  - **Add Second Shelf:** Place another set of support bars (8, 9, 10, 11) on top of the second layer to create the second shelf, as indicated in green.
+
+### Step 5:
+- **Parts Needed:** Support Bars (12, 13, 14)
+- **Instructions:**
+  - **Build Third Layer:** Attach more support bars (12, 13, 14) to the structure to form the third layer, as shown in the red segmentation.
+
+### Step 6:
+- **Parts Needed:** Support Bars (8, 9, 10, 11)
+- **Instructions:**
+  - **Add Top Shelf:** Complete the assembly by placing the final set of support bars (8, 9, 10, 11) on top to form the top shelf, as indicated in green.
+
+This plan follows the manual's instructions, focusing on the colored segmented parts for each step.

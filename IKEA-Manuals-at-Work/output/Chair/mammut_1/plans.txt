@@ -1,0 +1,14 @@
+
+02:27PM on January 05, 2025
+=================================================================
+There are two pages of the setup manual overlayed with mask segmentations, indicating two total steps.
+
+### Step 1:
+- **Parts Needed:** Seat (0), Legs (2, 3, 4, 5)
+- **Instructions:**
+  - **Attach Legs to Seat:** Connect each of the four legs (2, 3, 4, 5) to the underside of the seat (0) as shown in the segmented manual. Each leg should be inserted into the corresponding slot on the seat.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Backrest (1)
+- **Instructions:**
+  - **Attach Backrest to Seat:** Align the backrest (1) with the slots on the rear of the seat (0) and secure it in place. Ensure the backrest is firmly attached to complete the chair assembly.

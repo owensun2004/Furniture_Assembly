@@ -1,0 +1,19 @@
+
+02:48PM on January 05, 2025
+=================================================================
+There are three pages of the setup manual overlayed with mask segmentations. Thus, there are three total steps.
+
+### Step 1:
+- **Parts Needed:** Perforated Panel (0), Leg Frame (3), Support Bar (4)
+- **Instructions:**
+  - **Assemble Base Structure:** Attach the perforated panel (0) to the leg frame (3) and support bar (4) as shown in the manual. The perforated panel is highlighted in red, the leg frame in green, and the support bar in purple.
+
+### Step 2:
+- **Parts Needed:** Solid Panel (2), Frame (1)
+- **Instructions:**
+  - **Attach Top Surface:** Connect the solid panel (2) to the frame (1). The solid panel is highlighted in red, and the frame is in green.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 1, Subassembly from Step 2
+- **Instructions:**
+  - **Final Assembly:** Combine the subassembly from Step 1 with the subassembly from Step 2. The perforated panel and frame are highlighted in green, while the solid panel is in red.

@@ -1,0 +1,9 @@
+
+02:47PM on January 05, 2025
+=================================================================
+There is one page of the setup manual overlayed with mask segmentations, indicating one step.
+
+### Step 1:
+- **Parts Needed:** Seat Base (0), Leg Frame (1)
+- **Instructions:**
+  - **Attach Seat Base to Leg Frame:** Position the seat base (0) on top of the leg frame (1) as shown in the manual. Align the holes on the seat base with the corresponding points on the leg frame.

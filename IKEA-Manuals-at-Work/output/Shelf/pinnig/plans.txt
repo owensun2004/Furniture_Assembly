@@ -1,0 +1,26 @@
+
+02:42PM on January 05, 2025
+=================================================================
+There are four pages of the setup manual overlayed with mask segmentations, indicating four total steps.
+
+### Step 1:
+- **Parts Needed:** Seat Panel (1), Support Bar (5), Support Bar (6)
+- **Instructions:**
+  - **Attach Support Bars:** Place the seat panel (1) on a flat surface. Attach support bars (5) and (6) to the underside of the seat panel as shown in the manual.
+
+### Step 2:
+- **Parts Needed:** Subassembly from Step 1, Side Frame (2)
+- **Instructions:**
+  - **Connect Side Frame:** Attach the side frame (2) vertically to one end of the subassembly from Step 1, ensuring it aligns with the support bars.
+
+### Step 3:
+- **Parts Needed:** Subassembly from Step 2, Back Panel (0), Back Support (3)
+- **Instructions:**
+  - **Install Back Panel and Support:** Secure the back panel (0) to the subassembly, aligning it with the side frame. Attach the back support (3) horizontally across the back panel for stability.
+
+### Step 4:
+- **Parts Needed:** Subassembly from Step 3, Side Frame (4)
+- **Instructions:**
+  - **Complete Structure:** Attach the second side frame (4) to the opposite end of the subassembly, ensuring all parts are securely connected and aligned.
+
+These steps follow the sequence and segmentation shown in the manual, focusing on the main furniture parts.

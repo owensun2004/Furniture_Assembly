@@ -1,0 +1,19 @@
+
+02:35PM on January 05, 2025
+=================================================================
+There are three pages of the setup manual overlayed with mask segmentations, indicating three total steps.
+
+### Step 1:
+- **Parts Needed:** Armrest (0), Leg (1), Leg (2)
+- **Instructions:**
+  - **Assemble Legs to Armrest:** Attach the legs (1 and 2) to the armrest (0) as shown in the segmented manual. The purple and green segments represent the legs, while the red segment represents the armrest.
+
+### Step 2:
+- **Parts Needed:** Backrest (3)
+- **Instructions:**
+  - **Attach Backrest:** Insert the backrest (3) into the assembly from Step 1. The green segment represents the backrest being positioned between the assembled legs and armrest.
+
+### Step 3:
+- **Parts Needed:** Armrest (4)
+- **Instructions:**
+  - **Secure Second Armrest:** Attach the second armrest (4) on top of the assembly from Step 2. The green segment shows the armrest being aligned and secured to complete the structure.
